@@ -3,7 +3,8 @@
 #include<time.h>
 #include<math.h>
 
-b
+
+
 int main(){
 	int a,b;
 
