@@ -23,8 +23,8 @@ int main(){
         printf("real & equal roots\n");
     }
 
-    float x1=( (-b)+sqrt(det) )/(2*a);
-    float x2=( (-b)-sqrt(det) )/(2*a);
+    double x1=( (-b)+sqrt(det) )/(2*a); //sqrt returs the double value
+    double x2=( (-b)-sqrt(det) )/(2*a);
     printf("The roots are %f and %f \n",x1,x2);
     return 0;
 }

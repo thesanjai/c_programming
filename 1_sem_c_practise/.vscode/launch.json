@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "/home/lastknight/desktop/c_programming/1_sem_c_practise/SIMPLE PROGRAMS",
+      "program": "/home/lastknight/desktop/c_programming/1_sem_c_practise/SIMPLE PROGRAMS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
