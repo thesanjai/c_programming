@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    signed char i=-128; //try unsigned char i=-130 && signed char i=-130;
+    signed char i=0; //try unsigned char i=-130 && signed char i=-130;
     for(;i>=0;i++); //try i<=0
     printf("%d\n",i);
     return 0;
