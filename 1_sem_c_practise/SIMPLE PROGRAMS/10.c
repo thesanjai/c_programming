@@ -18,7 +18,7 @@ int main(){
         printf("cannot able to find the root\n");
         return 0;
     }else if(det >0){
-        printf("REAL & DIFFERENT \n");
+        printf("REAL & DIFFERENT ROOTS \n");
     }else{
         printf("REAL & EQUAL ROOTS\n");
     }
