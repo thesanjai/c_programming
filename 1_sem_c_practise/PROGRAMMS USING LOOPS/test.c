@@ -1,19 +1,16 @@
 //Factorial without using function
 #include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
 
 int main(){
-    int n;
-    printf("Enter the n: ");
-    scanf("%d",&n); //4
+    
+    char* str;
+    printf("Enter a string: ");
+   // gets(str);
+   fgets(str,6,stdin);
 
-    int fact=1;
-    int i=1;
-
-    while(i<n){
-        fact =fact*++i;
-    }
-
-    printf("Factorial of %d is %d \n",n,fact);
+    puts(str);
 
     return 0;
 }
