@@ -14,7 +14,7 @@ int main(){
     printf("size of a = %ld\n",sizeof(a));
     printf("size of b = %ld\n",sizeof(b));
 
-    printf("Enter string for a(give input more than size 15): ");
+    printf("Enter string for a(give input size as 20 and 21 for difference): ");
     scanf("%[^\n]",a);
 
     printf("content of a = %s\n",a);
