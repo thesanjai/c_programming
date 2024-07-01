@@ -18,7 +18,7 @@ int main(){
         printf("%c  %d\n",str[i],str[i]);
     }
     printf("Address\n");
-     printf("name => %p\n",name);
+    printf("name => %p\n",name);
     printf("str => %p\n",str);
     printf("str1 => %p\n",str1);
     printf("*str2 => %p\n",str2);

@@ -2,10 +2,15 @@
 
 int main(){
 
-    char name[6];
+   char name1[7],name2[8]="voshini";
 
-    printf("Enter the name: ");
-    scanf("%5s",name);
+  
 
-    printf("%s",name);
+   printf("Enter the name: ");
+   scanf("%6[^\n]s",name1);
+
+   
+   printf("name=> %s\n",name1);
+   printf("name2=> %s\n",name2);
+   
 }
