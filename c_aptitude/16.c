@@ -1,17 +1,29 @@
 #include<stdio.h>
 
 int main(){
-    int a=1;
-    int b=1;
 
-    int c= a||--b;//if first condition true , next will not execute, because it is OR
-                  //if first condition fails, it will check for next condition
+    int x,y=5,z=5;
 
-    int d=a--&&--b; //if fist condition fails, it will not execute the next
-                    //if first condtion true, then it will execute the next condition
-
-    printf("a=%d\tb=%d\n",a,b);
-    printf("c=%d\td=%d\n",c,d);
-
-    return 0;   
+    x=y==z;   // if y==z =>true x=>1
+              // if y!=z =>false x=0 
+    printf("%d",x);
+    return 0;
 }
+/*
+comparison == operator has higher precedence over assignment = operator
+*/
+
+/*
+    TRY IT OUT
+
+    #include<stdio.h>
+    int main(){
+    int x,y=5,z=5;
+
+    x+=y==z;
+
+    printf("%d ",x);
+
+    return 0;
+    }
+*/

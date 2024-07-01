@@ -1,14 +1,10 @@
-#include<stdio.h>
+ #include<stdio.h>
 
-int main(){
-    char arr[]={'a','b'};
-    char *ptr=arr;
+ int main(){
+    char arr[]={1,2,3}; //use int 
+    char* p=arr; 
 
-   
-    if(&ptr==&arr){ //try ptr
-        printf("same\n");
-    }else{
-        printf("not same\n");
-    }
+    printf("%ld\n",sizeof(p)); //size of pointer always same ->8
+    printf("%ld\n",sizeof(arr));// vary with number of inputs
     return 0;
-}
+ }

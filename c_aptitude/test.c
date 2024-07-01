@@ -1,9 +1,10 @@
-#include<stdio.h>
+  #include<stdio.h>
+    int main(){
+    int x,y=5,z=5;
 
-int main(){
-    char* str="sanjai";
+    x+=y==z;
 
-    int n=0;
-    while(str[++n]!='\0');
-    printf("ans-.%d",n);
-}
+    printf("%d ",x);
+
+    return 0;
+    }
