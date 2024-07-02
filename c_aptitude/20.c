@@ -16,6 +16,10 @@ int main(){
     e= a++ + ++a;
     a=1;
 
+    int x=10;
+    int u;
+    char name[10];
+
     printf("a=%d\n",a);
     printf("b=%d\n",b); 
     printf("c=%d\n",c);
