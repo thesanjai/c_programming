@@ -6,10 +6,6 @@
 
     int c= a*4/3;
 
-    int d;
-
-    d=10,20,30;
-
-    printf("%d\n",d);
+    printf("%d\n",c);
     return 0;
     }

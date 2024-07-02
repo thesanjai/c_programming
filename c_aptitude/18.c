@@ -9,6 +9,16 @@ int main(){
     //printf("$s",?);
     //printf("%s",strstr(str,"geeks"));
 
-    printf("%s",str+8);
+    printf("%s\n",str+8);
+
+
+    printf("\"Hello%%World\"");
     return 0;
 }
+/*NOTES
+    TO PRINT SPECIAL CHARACTERS IN OUTPUT(printf) USE \
+                                                      \"
+                                                      \'
+                                                      \\
+                                                      %% 
+*/
