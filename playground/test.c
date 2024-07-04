@@ -1,21 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
 
-typedef struct rectangle{
-	int length,breadth;
-}rectangle;
-
-void create(rectangle *r);
+#define slength(s) ({ \
+	int n=0;\
+	while(s[++n]!='\0') ;\
+	n;\
+})
 
 int main(){
+	char* str="000";
 
-	rectangle r;
-	create(&r);
-
-	printf("area of rectangle: %d\n",r.length*r.breadth);
+	
+	printf("%d\n",slength(str));
 	return 0;
-}
-
-void create(rectangle *r){
-	(*r).length=10;
-	r->breadth=20;
 }
