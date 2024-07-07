@@ -25,7 +25,7 @@ void free_matrix_memory(matrix *mat);
 
 void create_matrix(matrix *mat){
     printf("Enter the name of the matrix(single char): ");
-    scanf(" %c",&mat->name);
+    scanf(" %1c",&mat->name);
 
     printf("Enter the number of rows: ");
     scanf("%d",&mat->row);
@@ -53,11 +53,11 @@ void create_matrix(matrix *mat){
     }
 
     //DATA ENTRY
-    printf("Enter the elements of the matrix %c : \n",mat->name);
+    printf("Enter the elements of the matrix %1c : \n",mat->name);
 
     for(int i=0;i<mat->row;i++){
         for(int j=0;j<mat->col;j++){
-            printf("%c[%d][%d]? => ",mat->name,i,j);
+            printf("%1c[%d][%d]? => ",mat->name,i,j);
             scanf("%d",&mat->a[i][j]);
         }
     }
@@ -66,7 +66,7 @@ void create_matrix(matrix *mat){
 
 void print_matrix(matrix mat){
     printf("\n");
-    printf("The matrix %c is: \n",mat.name);
+    printf("The matrix %1c is: \n",mat.name);
     for(int i=0;i<mat.row;i++){
         for(int j=0;j<mat.col;j++){
             printf("%d ",mat.a[i][j]);
@@ -93,7 +93,7 @@ matrix* add_matrix(matrix *mat1, matrix *mat2){
 
     //allocating values for matrix 3
     printf("Enter the name of the resultant matrix(single char): ");
-    scanf(" %c",&mat3->name);
+    scanf(" %1c",&mat3->name);
 
     mat3->row=mat1->row;
     mat3->col=mat1->col;
@@ -142,7 +142,7 @@ matrix* sub_matrix(matrix *mat1, matrix *mat2){
 
     //allocating values for matrix 3
     printf("Enter the name of the resultant matrix (single char): ");
-    scanf(" %c",&mat3->name);
+    scanf(" %1c",&mat3->name);
 
     mat3->row=mat1->row;
     mat3->col=mat1->col;
@@ -191,7 +191,7 @@ matrix* mul_matrix(matrix *mat1, matrix *mat2){
 
     //allocating values for matrix 3
     printf("Enter the name of the resultant matrix (single char): ");
-    scanf(" %c",&mat3->name);
+    scanf(" %1c",&mat3->name);
 
     mat3->row=mat1->row;
     mat3->col=mat2->col;
@@ -238,7 +238,7 @@ matrix* trans_matrix(matrix* mat){
 
     //allocating values for matrix 3
     printf("Enter the name of the resultant matrix (single char): ");
-    scanf(" %c",&mat3->name);
+    scanf(" %1c",&mat3->name);
 
     mat3->row=mat->row;
     mat3->col=mat->col;
