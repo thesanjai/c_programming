@@ -23,30 +23,35 @@ int main(){
         printf("Error ....ADDITION OPEARTION NOT PERFORMED\n");
     }else{
         print_matrix(*result);
+        free_matrix_memory(result);
     }
 
     if(result1 == NULL){
         printf("Error ....SUBTRACTION OPEARTION NOT PERFORMED\n");
     }else{
         print_matrix(*result1);
+        free_matrix_memory(result1);
     }
 
     if(result2 == NULL){
         printf("Error ....MULTIPLICATION OPERATION NOT PERFORMED\n");
     }else{
         print_matrix(*result2);
+        free_matrix_memory(result2);
     }
 
      if(result3 == NULL){
         printf("Error ....TRANSPOSE OPERATION NOT PERFORMED\n");
     }else{
         print_matrix(*result3);
+        free_matrix_memory(result3);
     }
 
 
 
-   /*free_matrix_memory(&a);
+   free_matrix_memory(&a);
     free_matrix_memory(&b);
+    /*
     free_matrix_memory(result);
     free_matrix_memory(result1);
     free_matrix_memory(result1);
