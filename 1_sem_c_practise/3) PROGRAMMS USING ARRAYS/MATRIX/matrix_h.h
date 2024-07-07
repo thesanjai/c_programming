@@ -1,36 +1,63 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//variables
 
 typedef struct matrix{
-    char name;
+    char name[20];
     int row;
     int col;
     int **a; //matrix element
 }matrix;
 
+static int matrix_name=0;
+
+//function prototypes
 
 void create_matrix(matrix *mat);
-matrix* add_matrix(matrix *mat1, matrix *mat2);
-matrix* sub_matrix(matrix *mat1, matrix *mat2);
-matrix* mul_matrix(matrix *mat1, matrix *mat2);
-matrix* trans_matrix(matrix* mat);
+matrix* add_matrix(matrix mat1, matrix mat2);
+matrix* sub_matrix(matrix mat1, matrix mat2);
+matrix* mul_matrix(matrix mat1, matrix mat2);
+matrix* trans_matrix(matrix mat);
 void print_matrix(matrix mat);
 void free_matrix_memory(matrix *mat);
 
 
 
-    
+//functions
 
 
 void create_matrix(matrix *mat){
-    printf("Enter the name of the matrix(single char): ");
-    scanf(" %1c",&mat->name);
-
-    printf("Enter the number of rows: ");
-    scanf("%d",&mat->row);
-    printf("Enter the number of columns: ");
-    scanf("%d",&mat->col);
+    
+    while(1){
+        printf("Enter the name of the matrix %d : ",++matrix_name);
+        if(scanf(" %19[^\n]s",mat->name) != 0 ){// 19 to avoid overflow
+            break;
+        }else{
+            printf("Invalid name\n");
+            printf("try again.....\n");
+         }
+    }
+    
+    while(1){
+        printf("Enter the number of rows: ");
+        if(  scanf("%d",&mat->row) !=0){
+            break;
+        }else{
+            printf("Invalid number of rows\n");
+            printf("try again.....\n");
+        }
+    }
+    while(1){
+        printf("Enter the number of columns: ");
+        if(  scanf("%d",&mat->col) !=0){
+            break;
+        }else{
+            printf("Invalid number of columns\n");
+            printf("try again.....\n");
+        }
+    }
+   
 
     //creating dynamic memory for matrix
     
@@ -53,30 +80,37 @@ void create_matrix(matrix *mat){
     }
 
     //DATA ENTRY
-    printf("Enter the elements of the matrix %1c : \n",mat->name);
+    printf("Enter the elements of the matrix %s : \n",mat->name);
 
     for(int i=0;i<mat->row;i++){
         for(int j=0;j<mat->col;j++){
-            printf("%1c[%d][%d]? => ",mat->name,i,j);
-            scanf("%d",&mat->a[i][j]);
+          while(1){
+                printf("%s[%d][%d]? => ",mat->name,i,j);
+                if(scanf("%d",&mat->a[i][j]) != 0){
+                    break; //beraking while
+                }else{
+                    printf("Invalid number\n");
+                    printf("try again.....\n");
+                }
+          }
         }
     }
-
+    printf("Matrix %s created sucessfully.....!\n\n",mat->name);
 }
 
 void print_matrix(matrix mat){
     printf("\n");
-    printf("The matrix %1c is: \n",mat.name);
+    printf("The matrix %s is: \n",mat.name);
     for(int i=0;i<mat.row;i++){
         for(int j=0;j<mat.col;j++){
-            printf("%d ",mat.a[i][j]);
+            printf("%d  ",mat.a[i][j]);
         }
         printf("\n");
     }
     printf("\n");
 }
 
-matrix* add_matrix(matrix *mat1, matrix *mat2){
+matrix* add_matrix(matrix mat1, matrix mat2){
     matrix *mat3 = (matrix*)malloc(sizeof(matrix)); //creating memory for matrix 3
 
     //checking for memory allocation
@@ -85,18 +119,25 @@ matrix* add_matrix(matrix *mat1, matrix *mat2){
         return NULL;
     }
 
-    if(mat1->row != mat2->row || mat1->col != mat2->col ){
+    if(mat1.row != mat2.row || mat1.col != mat2.col ){
         printf("Diemension error......\n");
         printf("Cannot perform addition operation\n");
         return NULL;
     }
 
     //allocating values for matrix 3
-    printf("Enter the name of the resultant matrix(single char): ");
-    scanf(" %1c",&mat3->name);
-
-    mat3->row=mat1->row;
-    mat3->col=mat1->col;
+    while(1){
+        printf("Enter the name of the resultant matrix(addition): ");
+        if(scanf(" %19[^\n]s",mat3->name) !=0){
+            break;
+        }else{
+            printf("Invalid name\n");
+            printf("try again.....\n");
+         }
+    }
+   
+    mat3->row=mat1.row;
+    mat3->col=mat1.col;
 
     //creating memory for storing element in matrix 3
 
@@ -118,14 +159,15 @@ matrix* add_matrix(matrix *mat1, matrix *mat2){
     // adding matrix1 and matrix2 and store it matrix3
     for(int i=0;i<mat3->row;i++){
         for(int j=0;j<mat3->col;j++){
-            mat3->a[i][j] = mat1->a[i][j] + mat2->a[i][j];
+            mat3->a[i][j] = mat1.a[i][j] + mat2.a[i][j];
         }
     }
-
+    
+    printf("\nMatrix %s and Matrix %s added sucessfully.....!\n\n",mat1.name,mat2.name);
     return mat3;
 }
 
-matrix* sub_matrix(matrix *mat1, matrix *mat2){
+matrix* sub_matrix(matrix mat1, matrix mat2){
     matrix *mat3 = (matrix*)malloc(sizeof(matrix)); //creating memory for matrix 3
 
     //checking for memory allocation
@@ -134,18 +176,25 @@ matrix* sub_matrix(matrix *mat1, matrix *mat2){
         return NULL;
     }
 
-    if(mat1->row != mat2->row || mat1->col != mat2->col ){
+    if(mat1.row != mat2.row || mat1.col != mat2.col ){
         printf("Diemension error......\n");
         printf("Cannot perform subtraction operation\n");
         return NULL;
     }
 
     //allocating values for matrix 3
-    printf("Enter the name of the resultant matrix (single char): ");
-    scanf(" %1c",&mat3->name);
+    while(1){
+            printf("Enter the name of the resultant matrix(subtraction): ");
+            if(scanf(" %19[^\n]s",mat3->name) !=0){
+                break;
+            }else{
+                printf("Invalid name\n");
+                printf("try again.....\n");
+            }
+        }
 
-    mat3->row=mat1->row;
-    mat3->col=mat1->col;
+    mat3->row=mat1.row;
+    mat3->col=mat1.col;
 
     //creating memory for storing element in matrix 3
 
@@ -167,14 +216,23 @@ matrix* sub_matrix(matrix *mat1, matrix *mat2){
     // subtracting matrix1 and matrix2 and store it matrix3
     for(int i=0;i<mat3->row;i++){
         for(int j=0;j<mat3->col;j++){
-            mat3->a[i][j] = mat1->a[i][j] - mat2->a[i][j];
+            mat3->a[i][j] = mat1.a[i][j] - mat2.a[i][j];
         }
     }
 
+    printf("\nMatrix %s and Matrix %s subtracted sucessfully.....!\n\n",mat1.name,mat2.name);
     return mat3;
 }
 
-matrix* mul_matrix(matrix *mat1, matrix *mat2){
+matrix* mul_matrix(matrix mat1, matrix mat2){
+
+
+     if( mat1.col != mat2.row ){
+        printf("Diemension error......\n");
+        printf("Cannot perform multiplication operation\n");
+        return NULL;
+    }
+
     matrix *mat3 = (matrix*)malloc(sizeof(matrix)); //creating memory for matrix 3
 
     //checking for memory allocation
@@ -183,18 +241,19 @@ matrix* mul_matrix(matrix *mat1, matrix *mat2){
         return NULL;
     }
 
-    if( mat1->col != mat2->row ){
-        printf("Diemension error......\n");
-        printf("Cannot perform multiplication operation\n");
-        return NULL;
+    //allocating values for matrix 3
+     while(1){
+        printf("Enter the name of the resultant matrix(multiplication): ");
+        if(scanf(" %19[^\n]s",mat3->name) != 0){
+            break;
+        }else{
+            printf("Invalid name\n");
+            printf("try again.....\n");
+         }
     }
 
-    //allocating values for matrix 3
-    printf("Enter the name of the resultant matrix (single char): ");
-    scanf(" %1c",&mat3->name);
-
-    mat3->row=mat1->row;
-    mat3->col=mat2->col;
+    mat3->row=mat1.row;
+    mat3->col=mat2.col;
 
     //creating memory for storing element in matrix 3
 
@@ -214,20 +273,20 @@ matrix* mul_matrix(matrix *mat1, matrix *mat2){
     }
 
     // multiplying matrix1 and matrix2 and store it matrix3
-    for(int i=0;i<mat1->row;i++){
-        for(int j=0;j<mat2->col;j++){
+    for(int i=0;i<mat1.row;i++){
+        for(int j=0;j<mat2.col;j++){
            mat3->a[i][j] = 0;
-           for(int k=0;k<mat1->col;k++){
-                mat3->a[i][j] += mat1->a[i][k] * mat2->a[k][i];
+           for(int k=0;k<mat1.col;k++){
+                mat3->a[i][j] += mat1.a[i][k] * mat2.a[k][j];
            }
         }
     }
-
+    printf("\nMatrix %s and Matrix %s multiplied sucessfully.....!\n\n",mat1.name,mat2.name);
     return mat3;
-    
+  
 }
 
-matrix* trans_matrix(matrix* mat){
+matrix* trans_matrix(matrix mat){
     matrix *mat3 = (matrix*)malloc(sizeof(matrix)); //creating memory for matrix 3
 
     //checking for memory allocation
@@ -237,14 +296,22 @@ matrix* trans_matrix(matrix* mat){
     }
 
     //allocating values for matrix 3
-    printf("Enter the name of the resultant matrix (single char): ");
-    scanf(" %1c",&mat3->name);
-
-    mat3->row=mat->row;
-    mat3->col=mat->col;
+     while(1){
+         printf("Enter the name of the resultant matrix(transpose): ");
+         if( scanf(" %19[^\n]s",mat3->name) != 0){
+            break;
+         }else{
+            printf("Invalid name\n");
+            printf("try again....\n");
+         }
+     }
+       
+           
+    //diemensions are interchanged
+    mat3->row=mat.col;
+    mat3->col=mat.row;
 
     //creating memory for storing element in matrix 3
-
     mat3->a = (int**) malloc(mat3->row * sizeof(int*));
 
     if(mat3->a == NULL){
@@ -262,10 +329,11 @@ matrix* trans_matrix(matrix* mat){
 
     for(int i=0;i<mat3->row;i++){
         for(int j=0;j<mat3->col;j++){
-            mat3->a[i][j] = mat->a[j][i];
+            mat3->a[i][j] = mat.a[j][i];
         }
     }
-
+    
+    printf("\nMatrix %s transposed sucessfully.....!\n\n",mat.name);
     return mat3;
 }
 
@@ -275,4 +343,6 @@ void free_matrix_memory(matrix *mat){
         free(mat->a[i]);
     }
     free(mat->a);
+
+    printf("Matix %s memory released successfully......!\n",mat->name);
 }
