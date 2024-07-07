@@ -1,5 +1,4 @@
-//Smallest among N numbers in an array
-
+//Largest among N numbers in an array
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -17,11 +16,11 @@ int main(){
         i[arr] = rand()%1000;
         printf("%d ",i[arr]);
     }
-    int min=INF;        
+    int max=-INF;        
 
     for(int i=0;i<n;i++)
-        i[arr]<min?min=i[arr]:0;
+        i[arr]>max?max=i[arr]:0;
 
-    printf("\nSmallest element in the array is %d\n",min);
+    printf("\nLargest element in the array is %d\n",max);
     return 0;
 }

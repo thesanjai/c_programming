@@ -1,4 +1,4 @@
-//Reverse the array elements
+//Smallest among N numbers in an array
 
 #include <stdio.h>
 #include <time.h>
@@ -13,19 +13,15 @@ int main(){
     scanf("%d",&n);
     
     int arr[n];
-    printf("ORIGINAL ARRAY:\n");
     for(int i=0;i<n;i++){
         i[arr] = rand()%1000;
         printf("%d ",i[arr]);
     }
-    
-    //REVERSING THE ARRAY
-    int i=0,j=n-1;
-    while(i<j){ i[arr] = i[arr] + j[arr] -(j[arr] = i[arr]); i++,j--;}
+    int min=INF;        
 
-    printf("\nREVERSED ARRAY:\n");
-    for(i=0;i<n;i++)
-        printf("%d ",i[arr]);
-        
+    for(int i=0;i<n;i++)
+        i[arr]<min?min=i[arr]:0;
+
+    printf("\nSmallest element in the array is %d\n",min);
     return 0;
 }

@@ -1,26 +1,25 @@
-//Largest among N numbers in an array
+//Fibonacci using array
 #include <stdio.h>
-#include <time.h>
-#include <stdlib.h>
-
-#define INF 999999999
 
 int main(){
-    srand(time(NULL));
+
+    int first,second;
+    printf("Enter the first & second number: ");
+    scanf("%d%d",&first,&second);
+
     int n;
-    printf("Enter the number of elements in the array: ");
+    printf("Enter the number of terms: ");
     scanf("%d",&n);
-    
-    int arr[n];
-    for(int i=0;i<n;i++){
-        i[arr] = rand()%1000;
-        printf("%d ",i[arr]);
-    }
-    int max=-INF;        
 
-    for(int i=0;i<n;i++)
-        i[arr]>max?max=i[arr]:0;
+    int fibo[n+2];
+    fibo[0]=first; 
+    fibo[1]=second;
 
-    printf("\nLargest element in the array is %d\n",max);
+    for(int i=2;i<=n;i++)
+        i[fibo] = (i-2)[fibo] + (i-1)[fibo];
+
+    for(int i=0;i<=n;i++)
+        printf("%d ",i[fibo]);
+
     return 0;
 }

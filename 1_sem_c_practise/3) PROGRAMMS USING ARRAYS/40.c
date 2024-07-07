@@ -1,37 +1,33 @@
-//Transpose of a matrix
+//Delete an element in an array
 #include <stdio.h>
-#include <stdlib.h>
 #include <time.h>
+#include <stdlib.h>
 
 int main(){
     srand(time(NULL));
     int n;
-    printf("Enter the size of the matrix (n x n): ");
-    scanf("%d", &n);
-    int a[n][n];        
+    printf("Enter the number of elements in the array: ");
+    scanf("%d",&n);
     
-    printf("\nORIGINAL MATIX: \n");
-    for(int i = 0; i < n; i++){
-          for(int j=0;j<n;j++){
-             i[j[a]]=rand()%10;
-             printf("%d ",i[j[a]]);
-          }
-        printf("\n");
+    printf("ORIGINAL ARRAY:\n");
+    int arr[2*n];
+    for(int i=0;i<n;i++){
+        i[arr] = rand()%1000;
+        printf("%d ",i[arr]);
     }
 
-    for(int i = 0; i < n; i++){
-          for(int j=i+1;j<n;j++){
-            i[j[a]] = i[j[a]] + j[i[a]] - (j[i[a]] = i[j[a]]);
-           }
-    }
-    
-    printf("\nTRANSPOSED MATRIX: \n");
-     for(int i = 0; i < n; i++){
-          for(int j=0;j<n;j++){
-             printf("%d ",i[j[a]]);
-          }
-        printf("\n");
-    }
+    int pos;
+    printf("\nEnter the position of the element to be deleted: ");
+    scanf("%d",&pos);
 
+    for(int i=pos;i<n;i++){
+        arr[i] = arr[i+1];
+    }
+    arr[n-1]='\0';
+    
+    printf("\nARRAY AFTER DELETION:\n");
+    for(int i=0;i<n-1;i++){  // n-1 because one element is removed from the array
+        printf("%d ",arr[i]);
+    }
     return 0;
 }

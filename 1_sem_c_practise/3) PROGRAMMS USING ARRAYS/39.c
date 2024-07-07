@@ -1,4 +1,4 @@
-//Delete an element in an array
+//Insert an element in an array
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -16,17 +16,23 @@ int main(){
         printf("%d ",i[arr]);
     }
 
-    int pos;
-    printf("\nEnter the position of the element to be deleted: ");
+    int element,pos;
+    printf("\nEnter the position to insert: ");
     scanf("%d",&pos);
-
-    for(int i=pos;i<n;i++){
-        arr[i] = arr[i+1];
+    if(pos < 0 || pos > n){
+        printf("Invalid position");
+        return 1;
     }
-    arr[n-1]='\0';
+    printf("\nEnter the element to be inserted: ");
+    scanf("%d",&element);
     
-    printf("\nARRAY AFTER DELETION:\n");
-    for(int i=0;i<n-1;i++){  // n-1 because one element is removed from the array
+    for(int i=n-1;i>=pos;i--){
+       arr[i+1] = arr[i];
+    }
+    arr[pos] = element;
+    
+    printf("\nARRAY AFTER INSERTION:\n");
+    for(int i=0;i<n+1;i++){ // n+1 because one element is added to the array
         printf("%d ",arr[i]);
     }
     return 0;
