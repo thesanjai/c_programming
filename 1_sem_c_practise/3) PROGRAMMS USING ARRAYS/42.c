@@ -24,7 +24,7 @@ int main(){
 
     int count=0;
 
-    for(int i=0;i<n;i++){
+    for(int i=0;i<n-count;i++){
         if(a[i]==target){
             count++;
             for(int j=i;j<n-count;j++){
