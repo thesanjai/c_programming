@@ -1,16 +1,22 @@
-//Find sin(x) using series
- #include<stdio.h> 
- #include<math.h> 
-int main() 
-{float sum,term,xd,x; 
-int i; 
-printf("Enter x in degree:"); 
-scanf("%f",&xd); 
-x=(xd*3.141552654)/180.0; 
-sum=0; 
-term=x; 
-for(i=2;fabs(term)>0.000001;i++)//fabs(x)- returns modulus i.e. absolute value of argument(x) 
-{sum+=term; 
-term=-term*x*x/((2*i-1)*(2*i-2));} 
-printf("Sin (%f)=%f",xd,sum); 
+//Making simple calculator in c
+
+#include <stdio.h>
+
+int main(){
+    int n1,n2;
+    printf("Enter the 2 numbers: "), scanf("%d%d",&n1,&n2);
+
+    char op;
+    printf("Enter the operation (+,-,*,/,%%): "), scanf(" %c",&op);
+
+    switch(op){
+        case '+': printf("%d + %d = %d \n",n1,n2,n1+n2); break;
+        case '-': printf("%d - %d = %d \n",n1,n2,n1-n2); break;
+        case '*': printf("%d * %d = %d \n",n1,n2,n1*n2); break;
+        case '/': printf("%d / %d = %.3f \n",n1,n2,(float)n1/n2); break;
+        case '%': printf("%d %% %d = %d \n",n1,n2,n1%n2); break;
+        default:perror("WRONG OPTION\n");
+    }
+
+    return 0;
 }

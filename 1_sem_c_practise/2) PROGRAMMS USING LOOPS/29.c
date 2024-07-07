@@ -1,22 +1,18 @@
-//Making simple calculator in c
-
+//Amstrong checking 
 #include <stdio.h>
-
+#include <math.h> //while compiling add the -lm flag
 int main(){
-    int n1,n2;
-    printf("Enter the 2 numbers: "), scanf("%d%d",&n1,&n2);
+    int n;
+    printf("Enter the n: "),scanf("%d",&n);
+    int copy=n;
 
-    char op;
-    printf("Enter the operation (+,-,*,/,%%): "), scanf(" %c",&op);
+    int count=0;
+    while(n!=0) count++,n /=10;
+    n=copy;
 
-    switch(op){
-        case '+': printf("%d + %d = %d \n",n1,n2,n1+n2); break;
-        case '-': printf("%d - %d = %d \n",n1,n2,n1-n2); break;
-        case '*': printf("%d * %d = %d \n",n1,n2,n1*n2); break;
-        case '/': printf("%d / %d = %.3f \n",n1,n2,(float)n1/n2); break;
-        case '%': printf("%d %% %d = %d \n",n1,n2,n1%n2); break;
-        default:perror("WRONG OPTION\n");
-    }
+    int sum=0;
+    while(n!=0) {int temp=n%10; sum=sum+pow(temp,count),n /=10;}
 
+    sum==copy?printf("%d is amstrong number\n",copy):printf("%d is NOT a amstrong number\n",copy);
     return 0;
 }

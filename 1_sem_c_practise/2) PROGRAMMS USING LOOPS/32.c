@@ -1,19 +1,18 @@
-//Exponent series
-#include<stdio.h> 
-#define ACCURACY 0.0001                                      
+//Cos(x) series
+ #include<stdio.h> 
 int main() 
-{ int n, count; 
-float x, term, sum; 
- printf("Enter value of x:"); 
- scanf("%f", &x); 
- n = term = sum = count = 1; 
-while (n <= 100) 
-     { term = term * x/n; 
-     sum = sum + term; 
-     count = count + 1; 
-if (term < ACCURACY) 
-           n = 999; 
-else 
-           n = n + 1;    } 
- printf("Terms = %d Sum = %f\n", count, sum); 
- }
+{    int i, n; 
+    float x, sum=1, t=1; 
+     printf(" Enter the value for x : "); 
+    scanf("%f",&x); 
+    printf(" Enter the value for n : "); 
+    scanf("%d",&n); 
+     x=x*3.14159/180; 
+      /* Loop to calculate the value of Cosine */ 
+    for(i=1;i<=n;i++) 
+    { 
+        t=t*(-1)*x*x/(2*i*(2*i-1)); 
+        sum=sum+t;  
+  }      
+        printf(" The value of Cos(%f) is : %.4f", x, sum); 
+}

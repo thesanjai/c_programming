@@ -1,18 +1,16 @@
-//Cos(x) series
+//Find sin(x) using series
  #include<stdio.h> 
+ #include<math.h> 
 int main() 
-{    int i, n; 
-    float x, sum=1, t=1; 
-     printf(" Enter the value for x : "); 
-    scanf("%f",&x); 
-    printf(" Enter the value for n : "); 
-    scanf("%d",&n); 
-     x=x*3.14159/180; 
-      /* Loop to calculate the value of Cosine */ 
-    for(i=1;i<=n;i++) 
-    { 
-        t=t*(-1)*x*x/(2*i*(2*i-1)); 
-        sum=sum+t;  
-  }      
-        printf(" The value of Cos(%f) is : %.4f", x, sum); 
+{float sum,term,xd,x; 
+int i; 
+printf("Enter x in degree:"); 
+scanf("%f",&xd); 
+x=(xd*3.141552654)/180.0; 
+sum=0; 
+term=x; 
+for(i=2;fabs(term)>0.000001;i++)//fabs(x)- returns modulus i.e. absolute value of argument(x) 
+{sum+=term; 
+term=-term*x*x/((2*i-1)*(2*i-2));} 
+printf("Sin (%f)=%f",xd,sum); 
 }

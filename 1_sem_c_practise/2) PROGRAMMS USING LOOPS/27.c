@@ -1,4 +1,5 @@
-//Reverse the digits of given number
+//PALINDROME CHECKING
+
 #include <stdio.h>
 
 int main(){

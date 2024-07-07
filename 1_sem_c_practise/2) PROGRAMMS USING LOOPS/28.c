@@ -1,5 +1,5 @@
 // Digit summation 
-//Reverse the digits of given number
+
 #include <stdio.h>
 
 int main(){
