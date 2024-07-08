@@ -11,7 +11,7 @@ int main(){
     matrix *result = add_matrix(a,b);
 
     matrix *result1 = sub_matrix(a,b);
-
+                            
     matrix *result2 = mul_matrix(a,b);
 
     matrix *result3 = trans_matrix(a);

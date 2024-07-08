@@ -7,7 +7,7 @@ typedef struct matrix{
     char name[20];
     int row;
     int col;
-    int **a; //matrix element
+    double **a; //matrix element
 }matrix;
 
 static int matrix_name=0;
@@ -20,6 +20,7 @@ matrix* sub_matrix(matrix mat1, matrix mat2);
 matrix* mul_matrix(matrix mat1, matrix mat2);
 matrix* trans_matrix(matrix mat);
 void print_matrix(matrix mat);
+int find_length_int(int a); //used for calulating width to use in printf statement
 void free_matrix_memory(matrix *mat);
 
 
@@ -62,7 +63,7 @@ void create_matrix(matrix *mat){
     //creating dynamic memory for matrix
     
     //creating dynamic row
-    mat->a=(int**)malloc(mat->row * sizeof(int*));
+    mat->a=(double**)malloc(mat->row * sizeof(double*));
 
     if(mat->a == NULL){ // Check for memory allocation error
         printf("Memory allocation failed\n");
@@ -71,7 +72,7 @@ void create_matrix(matrix *mat){
 
     //cerating columns in dynamic rows
     for(int i=0;i<mat->row;i++){
-        mat->a[i]=(int*)malloc(mat->col * sizeof(int));
+        mat->a[i]=(double*)malloc(mat->col * sizeof(double));
 
         if(mat->a[i] == NULL){ // Check for memory allocation error
             printf("Memory allocation failed\n");
@@ -86,7 +87,7 @@ void create_matrix(matrix *mat){
         for(int j=0;j<mat->col;j++){
           while(1){
                 printf("%s[%d][%d]? => ",mat->name,i,j);
-                if(scanf("%d",&mat->a[i][j]) != 0){
+                if(scanf("%lf",&mat->a[i][j]) != 0){
                     break; //beraking while
                 }else{
                     printf("Invalid number\n");
@@ -98,12 +99,35 @@ void create_matrix(matrix *mat){
     printf("Matrix %s created sucessfully.....!\n\n",mat->name);
 }
 
+int find_length_int(int a){
+    int len=0;
+    while(a!=0){
+        a=a/10;
+        len++;
+    }
+    return len;
+}
 void print_matrix(matrix mat){
     printf("\n");
     printf("The matrix %s is: \n",mat.name);
+
+    //code for calulating max width of the matrix element
+    int len = -9999999;
     for(int i=0;i<mat.row;i++){
         for(int j=0;j<mat.col;j++){
-            printf("%d  ",mat.a[i][j]);
+            int temp = find_length_int(mat.a[i][j]);
+            len = temp > len ? temp : len;
+        }
+    }
+
+    int width=len + 3; // two digit width starts from 5
+    // if two digit , width = 5 ;if three digit widht =6
+    printf("\nwidth = %d\n",width);
+
+    printf("\n");
+    for(int i=0;i<mat.row;i++){
+        for(int j=0;j<mat.col;j++){
+            printf("%0*.*f  ",width,2,mat.a[i][j]); // 2-> 2 decimal points
         }
         printf("\n");
     }
@@ -111,6 +135,13 @@ void print_matrix(matrix mat){
 }
 
 matrix* add_matrix(matrix mat1, matrix mat2){
+   
+    if(mat1.row != mat2.row || mat1.col != mat2.col ){
+        printf("Diemension error......\n");
+        printf("Cannot perform addition operation\n");
+        return NULL;
+    }
+
     matrix *mat3 = (matrix*)malloc(sizeof(matrix)); //creating memory for matrix 3
 
     //checking for memory allocation
@@ -118,13 +149,6 @@ matrix* add_matrix(matrix mat1, matrix mat2){
         printf("Memory allocation falied\n");
         return NULL;
     }
-
-    if(mat1.row != mat2.row || mat1.col != mat2.col ){
-        printf("Diemension error......\n");
-        printf("Cannot perform addition operation\n");
-        return NULL;
-    }
-
     //allocating values for matrix 3
     while(1){
         printf("Enter the name of the resultant matrix(addition): ");
@@ -141,7 +165,7 @@ matrix* add_matrix(matrix mat1, matrix mat2){
 
     //creating memory for storing element in matrix 3
 
-    mat3->a = (int**) malloc(mat3->row * sizeof(int*));
+    mat3->a = (double**) malloc(mat3->row * sizeof(double*));
 
     if(mat3->a == NULL){
         printf("ERROR IN MEMORY ALLOCATION\n");
@@ -149,7 +173,7 @@ matrix* add_matrix(matrix mat1, matrix mat2){
     }
 
     for(int i=0;i<mat3->row;i++){
-        mat3->a[i] = (int*) malloc(mat3->col * sizeof(int));
+        mat3->a[i] = (double*) malloc(mat3->col * sizeof(double));
         if(mat3->a[i] == NULL){
             printf("ERROR IN MEMORY ALLOCATION\n");
             return NULL;
@@ -168,17 +192,19 @@ matrix* add_matrix(matrix mat1, matrix mat2){
 }
 
 matrix* sub_matrix(matrix mat1, matrix mat2){
+
+    if(mat1.row != mat2.row || mat1.col != mat2.col ){
+        printf("Diemension error......\n");
+        printf("Cannot perform subtraction operation\n");
+        return NULL;
+    }
+
+
     matrix *mat3 = (matrix*)malloc(sizeof(matrix)); //creating memory for matrix 3
 
     //checking for memory allocation
     if(mat3 == NULL){
         printf("Memory allocation falied\n");
-        return NULL;
-    }
-
-    if(mat1.row != mat2.row || mat1.col != mat2.col ){
-        printf("Diemension error......\n");
-        printf("Cannot perform subtraction operation\n");
         return NULL;
     }
 
@@ -198,7 +224,7 @@ matrix* sub_matrix(matrix mat1, matrix mat2){
 
     //creating memory for storing element in matrix 3
 
-    mat3->a = (int**) malloc(mat3->row * sizeof(int*));
+    mat3->a = (double**) malloc(mat3->row * sizeof(double*));
 
     if(mat3->a == NULL){
         printf("ERROR IN MEMORY ALLOCATION\n");
@@ -206,7 +232,7 @@ matrix* sub_matrix(matrix mat1, matrix mat2){
     }
 
     for(int i=0;i<mat3->row;i++){
-        mat3->a[i] = (int*) malloc(mat3->col * sizeof(int));
+        mat3->a[i] = (double*) malloc(mat3->col * sizeof(double));
         if(mat3->a[i] == NULL){
             printf("ERROR IN MEMORY ALLOCATION\n");
             return NULL;
@@ -257,7 +283,7 @@ matrix* mul_matrix(matrix mat1, matrix mat2){
 
     //creating memory for storing element in matrix 3
 
-    mat3->a = (int**) malloc(mat3->row * sizeof(int*));
+    mat3->a = (double**) malloc(mat3->row * sizeof(double*));
 
     if(mat3->a == NULL){
         printf("ERROR IN MEMORY ALLOCATION\n");
@@ -265,7 +291,7 @@ matrix* mul_matrix(matrix mat1, matrix mat2){
     }
 
     for(int i=0;i<mat3->row;i++){
-        mat3->a[i] = (int*) malloc(mat3->col * sizeof(int));
+        mat3->a[i] = (double*) malloc(mat3->col * sizeof(double));
         if(mat3->a[i] == NULL){
             printf("ERROR IN MEMORY ALLOCATION\n");
             return NULL;
@@ -312,7 +338,7 @@ matrix* trans_matrix(matrix mat){
     mat3->col=mat.row;
 
     //creating memory for storing element in matrix 3
-    mat3->a = (int**) malloc(mat3->row * sizeof(int*));
+    mat3->a = (double**) malloc(mat3->row * sizeof(double*));
 
     if(mat3->a == NULL){
         printf("ERROR IN MEMORY ALLOCATION\n");
@@ -320,7 +346,7 @@ matrix* trans_matrix(matrix mat){
     }
 
     for(int i=0;i<mat3->row;i++){
-        mat3->a[i] = (int*) malloc(mat3->col * sizeof(int));
+        mat3->a[i] = (double*) malloc(mat3->col * sizeof(double));
         if(mat3->a[i] == NULL){
             printf("ERROR IN MEMORY ALLOCATION\n");
             return NULL;
