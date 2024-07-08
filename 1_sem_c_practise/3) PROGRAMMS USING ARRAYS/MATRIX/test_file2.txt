@@ -1,0 +1,3000 @@
+Decimal part 0.111000(processed) = 111
+Length of decimal part = 3
+
+Decimal part 0.222000(processed) = 222
+Length of decimal part = 3
+
+Decimal part 0.333000(processed) = 333
+Length of decimal part = 3
+
+Decimal part 0.444000(processed) = 444
+Length of decimal part = 3
+
+Decimal part 0.555000(processed) = 555
+Length of decimal part = 3
+
+Decimal part 0.666000(processed) = 666
+Length of decimal part = 3
+
+Decimal part 0.777000(processed) = 777
+Length of decimal part = 3
+
+Decimal part 0.888000(processed) = 888
+Length of decimal part = 3
+
+Decimal part 0.999000(processed) = 999
+Length of decimal part = 3
+
+Decimal part 1.110000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 1.221000(processed) = 221
+Length of decimal part = 3
+
+Decimal part 1.332000(processed) = 332
+Length of decimal part = 3
+
+Decimal part 1.443000(processed) = 443
+Length of decimal part = 3
+
+Decimal part 1.554000(processed) = 554
+Length of decimal part = 3
+
+Decimal part 1.665000(processed) = 665
+Length of decimal part = 3
+
+Decimal part 1.776000(processed) = 776
+Length of decimal part = 3
+
+Decimal part 1.887000(processed) = 887
+Length of decimal part = 3
+
+Decimal part 1.998000(processed) = 998
+Length of decimal part = 3
+
+Decimal part 2.109000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 2.220000(processed) = 22
+Length of decimal part = 2
+
+Decimal part 2.331000(processed) = 331
+Length of decimal part = 3
+
+Decimal part 2.442000(processed) = 442
+Length of decimal part = 3
+
+Decimal part 2.553000(processed) = 553
+Length of decimal part = 3
+
+Decimal part 2.664000(processed) = 664
+Length of decimal part = 3
+
+Decimal part 2.775000(processed) = 775
+Length of decimal part = 3
+
+Decimal part 2.886000(processed) = 886
+Length of decimal part = 3
+
+Decimal part 2.997000(processed) = 997
+Length of decimal part = 3
+
+Decimal part 3.108000(processed) = 108
+Length of decimal part = 3
+
+Decimal part 3.219000(processed) = 219
+Length of decimal part = 3
+
+Decimal part 3.330000(processed) = 33
+Length of decimal part = 2
+
+Decimal part 3.441000(processed) = 441
+Length of decimal part = 3
+
+Decimal part 3.552000(processed) = 552
+Length of decimal part = 3
+
+Decimal part 3.663000(processed) = 663
+Length of decimal part = 3
+
+Decimal part 3.774000(processed) = 774
+Length of decimal part = 3
+
+Decimal part 3.885000(processed) = 885
+Length of decimal part = 3
+
+Decimal part 3.996000(processed) = 996
+Length of decimal part = 3
+
+Decimal part 4.107000(processed) = 107
+Length of decimal part = 3
+
+Decimal part 4.218000(processed) = 218
+Length of decimal part = 3
+
+Decimal part 4.329000(processed) = 329
+Length of decimal part = 3
+
+Decimal part 4.440000(processed) = 44
+Length of decimal part = 2
+
+Decimal part 4.551000(processed) = 551
+Length of decimal part = 3
+
+Decimal part 4.662000(processed) = 662
+Length of decimal part = 3
+
+Decimal part 4.773000(processed) = 773
+Length of decimal part = 3
+
+Decimal part 4.884000(processed) = 884
+Length of decimal part = 3
+
+Decimal part 4.995000(processed) = 995
+Length of decimal part = 3
+
+Decimal part 5.106000(processed) = 106
+Length of decimal part = 3
+
+Decimal part 5.217000(processed) = 217
+Length of decimal part = 3
+
+Decimal part 5.328000(processed) = 328
+Length of decimal part = 3
+
+Decimal part 5.439000(processed) = 439
+Length of decimal part = 3
+
+Decimal part 5.550000(processed) = 55
+Length of decimal part = 2
+
+Decimal part 5.661000(processed) = 661
+Length of decimal part = 3
+
+Decimal part 5.772000(processed) = 772
+Length of decimal part = 3
+
+Decimal part 5.883000(processed) = 883
+Length of decimal part = 3
+
+Decimal part 5.994000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 6.105000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 6.216000(processed) = 22
+Length of decimal part = 2
+
+Decimal part 6.327000(processed) = 33
+Length of decimal part = 2
+
+Decimal part 6.438000(processed) = 44
+Length of decimal part = 2
+
+Decimal part 6.549000(processed) = 55
+Length of decimal part = 2
+
+Decimal part 6.660000(processed) = 66
+Length of decimal part = 2
+
+Decimal part 6.771000(processed) = 78
+Length of decimal part = 2
+
+Decimal part 6.882000(processed) = 89
+Length of decimal part = 2
+
+Decimal part 6.993000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 7.104000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 7.215000(processed) = 22
+Length of decimal part = 2
+
+Decimal part 7.326000(processed) = 33
+Length of decimal part = 2
+
+Decimal part 7.437000(processed) = 44
+Length of decimal part = 2
+
+Decimal part 7.548000(processed) = 55
+Length of decimal part = 2
+
+Decimal part 7.659000(processed) = 66
+Length of decimal part = 2
+
+Decimal part 7.770000(processed) = 77
+Length of decimal part = 2
+
+Decimal part 7.881000(processed) = 89
+Length of decimal part = 2
+
+Decimal part 7.992000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 8.103000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 8.214000(processed) = 22
+Length of decimal part = 2
+
+Decimal part 8.325000(processed) = 33
+Length of decimal part = 2
+
+Decimal part 8.436000(processed) = 44
+Length of decimal part = 2
+
+Decimal part 8.547000(processed) = 55
+Length of decimal part = 2
+
+Decimal part 8.658000(processed) = 66
+Length of decimal part = 2
+
+Decimal part 8.769000(processed) = 769
+Length of decimal part = 3
+
+Decimal part 8.880000(processed) = 88
+Length of decimal part = 2
+
+Decimal part 8.991000(processed) = 991
+Length of decimal part = 3
+
+Decimal part 9.102000(processed) = 102
+Length of decimal part = 3
+
+Decimal part 9.213000(processed) = 213
+Length of decimal part = 3
+
+Decimal part 9.324000(processed) = 324
+Length of decimal part = 3
+
+Decimal part 9.435000(processed) = 435
+Length of decimal part = 3
+
+Decimal part 9.546000(processed) = 546
+Length of decimal part = 3
+
+Decimal part 9.657000(processed) = 657
+Length of decimal part = 3
+
+Decimal part 9.768000(processed) = 768
+Length of decimal part = 3
+
+Decimal part 9.879000(processed) = 879
+Length of decimal part = 3
+
+Decimal part 9.990000(processed) = 99
+Length of decimal part = 2
+
+Decimal part 10.101000(processed) = 101
+Length of decimal part = 3
+
+Decimal part 10.212000(processed) = 212
+Length of decimal part = 3
+
+Decimal part 10.323000(processed) = 323
+Length of decimal part = 3
+
+Decimal part 10.434000(processed) = 434
+Length of decimal part = 3
+
+Decimal part 10.545000(processed) = 545
+Length of decimal part = 3
+
+Decimal part 10.656000(processed) = 656
+Length of decimal part = 3
+
+Decimal part 10.767000(processed) = 767
+Length of decimal part = 3
+
+Decimal part 10.878000(processed) = 878
+Length of decimal part = 3
+
+Decimal part 10.989000(processed) = 989
+Length of decimal part = 3
+
+Decimal part 11.100000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 11.211000(processed) = 211
+Length of decimal part = 3
+
+Decimal part 11.322000(processed) = 322
+Length of decimal part = 3
+
+Decimal part 11.433000(processed) = 433
+Length of decimal part = 3
+
+Decimal part 11.544000(processed) = 544
+Length of decimal part = 3
+
+Decimal part 11.655000(processed) = 655
+Length of decimal part = 3
+
+Decimal part 11.766000(processed) = 766
+Length of decimal part = 3
+
+Decimal part 11.877000(processed) = 877
+Length of decimal part = 3
+
+Decimal part 11.988000(processed) = 988
+Length of decimal part = 3
+
+Decimal part 12.099000(processed) = 99
+Length of decimal part = 2
+
+Decimal part 12.210000(processed) = 21
+Length of decimal part = 2
+
+Decimal part 12.321000(processed) = 321
+Length of decimal part = 3
+
+Decimal part 12.432000(processed) = 432
+Length of decimal part = 3
+
+Decimal part 12.543000(processed) = 543
+Length of decimal part = 3
+
+Decimal part 12.654000(processed) = 654
+Length of decimal part = 3
+
+Decimal part 12.765000(processed) = 765
+Length of decimal part = 3
+
+Decimal part 12.876000(processed) = 876
+Length of decimal part = 3
+
+Decimal part 12.987000(processed) = 987
+Length of decimal part = 3
+
+Decimal part 13.098000(processed) = 98
+Length of decimal part = 2
+
+Decimal part 13.209000(processed) = 209
+Length of decimal part = 3
+
+Decimal part 13.320000(processed) = 32
+Length of decimal part = 2
+
+Decimal part 13.431000(processed) = 431
+Length of decimal part = 3
+
+Decimal part 13.542000(processed) = 542
+Length of decimal part = 3
+
+Decimal part 13.653000(processed) = 653
+Length of decimal part = 3
+
+Decimal part 13.764000(processed) = 764
+Length of decimal part = 3
+
+Decimal part 13.875000(processed) = 875
+Length of decimal part = 3
+
+Decimal part 13.986000(processed) = 986
+Length of decimal part = 3
+
+Decimal part 14.097000(processed) = 97
+Length of decimal part = 2
+
+Decimal part 14.208000(processed) = 208
+Length of decimal part = 3
+
+Decimal part 14.319000(processed) = 319
+Length of decimal part = 3
+
+Decimal part 14.430000(processed) = 43
+Length of decimal part = 2
+
+Decimal part 14.541000(processed) = 541
+Length of decimal part = 3
+
+Decimal part 14.652000(processed) = 652
+Length of decimal part = 3
+
+Decimal part 14.763000(processed) = 763
+Length of decimal part = 3
+
+Decimal part 14.874000(processed) = 874
+Length of decimal part = 3
+
+Decimal part 14.985000(processed) = 985
+Length of decimal part = 3
+
+Decimal part 15.096000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 15.207000(processed) = 207
+Length of decimal part = 3
+
+Decimal part 15.318000(processed) = 318
+Length of decimal part = 3
+
+Decimal part 15.429000(processed) = 429
+Length of decimal part = 3
+
+Decimal part 15.540000(processed) = 54
+Length of decimal part = 2
+
+Decimal part 15.651000(processed) = 651
+Length of decimal part = 3
+
+Decimal part 15.762000(processed) = 762
+Length of decimal part = 3
+
+Decimal part 15.873000(processed) = 873
+Length of decimal part = 3
+
+Decimal part 15.984000(processed) = 984
+Length of decimal part = 3
+
+Decimal part 16.095000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 16.206000(processed) = 206
+Length of decimal part = 3
+
+Decimal part 16.317000(processed) = 317
+Length of decimal part = 3
+
+Decimal part 16.428000(processed) = 428
+Length of decimal part = 3
+
+Decimal part 16.539000(processed) = 539
+Length of decimal part = 3
+
+Decimal part 16.650000(processed) = 65
+Length of decimal part = 2
+
+Decimal part 16.761000(processed) = 761
+Length of decimal part = 3
+
+Decimal part 16.872000(processed) = 872
+Length of decimal part = 3
+
+Decimal part 16.983000(processed) = 983
+Length of decimal part = 3
+
+Decimal part 17.094000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 17.205000(processed) = 205
+Length of decimal part = 3
+
+Decimal part 17.316000(processed) = 316
+Length of decimal part = 3
+
+Decimal part 17.427000(processed) = 427
+Length of decimal part = 3
+
+Decimal part 17.538000(processed) = 538
+Length of decimal part = 3
+
+Decimal part 17.649000(processed) = 649
+Length of decimal part = 3
+
+Decimal part 17.760000(processed) = 76
+Length of decimal part = 2
+
+Decimal part 17.871000(processed) = 871
+Length of decimal part = 3
+
+Decimal part 17.982000(processed) = 982
+Length of decimal part = 3
+
+Decimal part 18.093000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 18.204000(processed) = 204
+Length of decimal part = 3
+
+Decimal part 18.315000(processed) = 315
+Length of decimal part = 3
+
+Decimal part 18.426000(processed) = 426
+Length of decimal part = 3
+
+Decimal part 18.537000(processed) = 537
+Length of decimal part = 3
+
+Decimal part 18.648000(processed) = 648
+Length of decimal part = 3
+
+Decimal part 18.759000(processed) = 759
+Length of decimal part = 3
+
+Decimal part 18.870000(processed) = 87
+Length of decimal part = 2
+
+Decimal part 18.981000(processed) = 981
+Length of decimal part = 3
+
+Decimal part 19.092000(processed) = 92
+Length of decimal part = 2
+
+Decimal part 19.203000(processed) = 203
+Length of decimal part = 3
+
+Decimal part 19.314000(processed) = 314
+Length of decimal part = 3
+
+Decimal part 19.425000(processed) = 425
+Length of decimal part = 3
+
+Decimal part 19.536000(processed) = 536
+Length of decimal part = 3
+
+Decimal part 19.647000(processed) = 647
+Length of decimal part = 3
+
+Decimal part 19.758000(processed) = 758
+Length of decimal part = 3
+
+Decimal part 19.869000(processed) = 869
+Length of decimal part = 3
+
+Decimal part 19.980000(processed) = 98
+Length of decimal part = 2
+
+Decimal part 20.091000(processed) = 91
+Length of decimal part = 2
+
+Decimal part 20.202000(processed) = 202
+Length of decimal part = 3
+
+Decimal part 20.313000(processed) = 313
+Length of decimal part = 3
+
+Decimal part 20.424000(processed) = 424
+Length of decimal part = 3
+
+Decimal part 20.535000(processed) = 535
+Length of decimal part = 3
+
+Decimal part 20.646000(processed) = 646
+Length of decimal part = 3
+
+Decimal part 20.757000(processed) = 757
+Length of decimal part = 3
+
+Decimal part 20.868000(processed) = 868
+Length of decimal part = 3
+
+Decimal part 20.979000(processed) = 979
+Length of decimal part = 3
+
+Decimal part 21.090000(processed) = 9
+Length of decimal part = 1
+
+Decimal part 21.201000(processed) = 201
+Length of decimal part = 3
+
+Decimal part 21.312000(processed) = 312
+Length of decimal part = 3
+
+Decimal part 21.423000(processed) = 423
+Length of decimal part = 3
+
+Decimal part 21.534000(processed) = 534
+Length of decimal part = 3
+
+Decimal part 21.645000(processed) = 645
+Length of decimal part = 3
+
+Decimal part 21.756000(processed) = 756
+Length of decimal part = 3
+
+Decimal part 21.867000(processed) = 867
+Length of decimal part = 3
+
+Decimal part 21.978000(processed) = 978
+Length of decimal part = 3
+
+Decimal part 22.089000(processed) = 89
+Length of decimal part = 2
+
+Decimal part 22.200000(processed) = 2
+Length of decimal part = 1
+
+Decimal part 22.311000(processed) = 311
+Length of decimal part = 3
+
+Decimal part 22.422000(processed) = 422
+Length of decimal part = 3
+
+Decimal part 22.533000(processed) = 533
+Length of decimal part = 3
+
+Decimal part 22.644000(processed) = 644
+Length of decimal part = 3
+
+Decimal part 22.755000(processed) = 755
+Length of decimal part = 3
+
+Decimal part 22.866000(processed) = 866
+Length of decimal part = 3
+
+Decimal part 22.977000(processed) = 977
+Length of decimal part = 3
+
+Decimal part 23.088000(processed) = 88
+Length of decimal part = 2
+
+Decimal part 23.199000(processed) = 199
+Length of decimal part = 3
+
+Decimal part 23.310000(processed) = 31
+Length of decimal part = 2
+
+Decimal part 23.421000(processed) = 421
+Length of decimal part = 3
+
+Decimal part 23.532000(processed) = 532
+Length of decimal part = 3
+
+Decimal part 23.643000(processed) = 643
+Length of decimal part = 3
+
+Decimal part 23.754000(processed) = 754
+Length of decimal part = 3
+
+Decimal part 23.865000(processed) = 865
+Length of decimal part = 3
+
+Decimal part 23.976000(processed) = 976
+Length of decimal part = 3
+
+Decimal part 24.087000(processed) = 87
+Length of decimal part = 2
+
+Decimal part 24.198000(processed) = 198
+Length of decimal part = 3
+
+Decimal part 24.309000(processed) = 309
+Length of decimal part = 3
+
+Decimal part 24.420000(processed) = 42
+Length of decimal part = 2
+
+Decimal part 24.531000(processed) = 531
+Length of decimal part = 3
+
+Decimal part 24.642000(processed) = 642
+Length of decimal part = 3
+
+Decimal part 24.753000(processed) = 753
+Length of decimal part = 3
+
+Decimal part 24.864000(processed) = 864
+Length of decimal part = 3
+
+Decimal part 24.975000(processed) = 975
+Length of decimal part = 3
+
+Decimal part 25.086000(processed) = 86
+Length of decimal part = 2
+
+Decimal part 25.197000(processed) = 197
+Length of decimal part = 3
+
+Decimal part 25.308000(processed) = 308
+Length of decimal part = 3
+
+Decimal part 25.419000(processed) = 419
+Length of decimal part = 3
+
+Decimal part 25.530000(processed) = 53
+Length of decimal part = 2
+
+Decimal part 25.641000(processed) = 641
+Length of decimal part = 3
+
+Decimal part 25.752000(processed) = 752
+Length of decimal part = 3
+
+Decimal part 25.863000(processed) = 863
+Length of decimal part = 3
+
+Decimal part 25.974000(processed) = 974
+Length of decimal part = 3
+
+Decimal part 26.085000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 26.196000(processed) = 196
+Length of decimal part = 3
+
+Decimal part 26.307000(processed) = 307
+Length of decimal part = 3
+
+Decimal part 26.418000(processed) = 418
+Length of decimal part = 3
+
+Decimal part 26.529000(processed) = 529
+Length of decimal part = 3
+
+Decimal part 26.640000(processed) = 64
+Length of decimal part = 2
+
+Decimal part 26.751000(processed) = 751
+Length of decimal part = 3
+
+Decimal part 26.862000(processed) = 862
+Length of decimal part = 3
+
+Decimal part 26.973000(processed) = 973
+Length of decimal part = 3
+
+Decimal part 27.084000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 27.195000(processed) = 195
+Length of decimal part = 3
+
+Decimal part 27.306000(processed) = 306
+Length of decimal part = 3
+
+Decimal part 27.417000(processed) = 417
+Length of decimal part = 3
+
+Decimal part 27.528000(processed) = 528
+Length of decimal part = 3
+
+Decimal part 27.639000(processed) = 639
+Length of decimal part = 3
+
+Decimal part 27.750000(processed) = 75
+Length of decimal part = 2
+
+Decimal part 27.861000(processed) = 861
+Length of decimal part = 3
+
+Decimal part 27.972000(processed) = 972
+Length of decimal part = 3
+
+Decimal part 28.083000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 28.194000(processed) = 194
+Length of decimal part = 3
+
+Decimal part 28.305000(processed) = 305
+Length of decimal part = 3
+
+Decimal part 28.416000(processed) = 416
+Length of decimal part = 3
+
+Decimal part 28.527000(processed) = 527
+Length of decimal part = 3
+
+Decimal part 28.638000(processed) = 638
+Length of decimal part = 3
+
+Decimal part 28.749000(processed) = 749
+Length of decimal part = 3
+
+Decimal part 28.860000(processed) = 86
+Length of decimal part = 2
+
+Decimal part 28.971000(processed) = 971
+Length of decimal part = 3
+
+Decimal part 29.082000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 29.193000(processed) = 193
+Length of decimal part = 3
+
+Decimal part 29.304000(processed) = 304
+Length of decimal part = 3
+
+Decimal part 29.415000(processed) = 415
+Length of decimal part = 3
+
+Decimal part 29.526000(processed) = 526
+Length of decimal part = 3
+
+Decimal part 29.637000(processed) = 637
+Length of decimal part = 3
+
+Decimal part 29.748000(processed) = 748
+Length of decimal part = 3
+
+Decimal part 29.859000(processed) = 859
+Length of decimal part = 3
+
+Decimal part 29.970000(processed) = 97
+Length of decimal part = 2
+
+Decimal part 30.081000(processed) = 81
+Length of decimal part = 2
+
+Decimal part 30.192000(processed) = 192
+Length of decimal part = 3
+
+Decimal part 30.303000(processed) = 303
+Length of decimal part = 3
+
+Decimal part 30.414000(processed) = 414
+Length of decimal part = 3
+
+Decimal part 30.525000(processed) = 525
+Length of decimal part = 3
+
+Decimal part 30.636000(processed) = 636
+Length of decimal part = 3
+
+Decimal part 30.747000(processed) = 747
+Length of decimal part = 3
+
+Decimal part 30.858000(processed) = 858
+Length of decimal part = 3
+
+Decimal part 30.969000(processed) = 969
+Length of decimal part = 3
+
+Decimal part 31.080000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 31.191000(processed) = 191
+Length of decimal part = 3
+
+Decimal part 31.302000(processed) = 302
+Length of decimal part = 3
+
+Decimal part 31.413000(processed) = 413
+Length of decimal part = 3
+
+Decimal part 31.524000(processed) = 524
+Length of decimal part = 3
+
+Decimal part 31.635000(processed) = 635
+Length of decimal part = 3
+
+Decimal part 31.746000(processed) = 746
+Length of decimal part = 3
+
+Decimal part 31.857000(processed) = 857
+Length of decimal part = 3
+
+Decimal part 31.968000(processed) = 968
+Length of decimal part = 3
+
+Decimal part 32.079000(processed) = 79
+Length of decimal part = 2
+
+Decimal part 32.190000(processed) = 19
+Length of decimal part = 2
+
+Decimal part 32.301000(processed) = 301
+Length of decimal part = 3
+
+Decimal part 32.412000(processed) = 412
+Length of decimal part = 3
+
+Decimal part 32.523000(processed) = 523
+Length of decimal part = 3
+
+Decimal part 32.634000(processed) = 634
+Length of decimal part = 3
+
+Decimal part 32.745000(processed) = 745
+Length of decimal part = 3
+
+Decimal part 32.856000(processed) = 856
+Length of decimal part = 3
+
+Decimal part 32.967000(processed) = 967
+Length of decimal part = 3
+
+Decimal part 33.078000(processed) = 78
+Length of decimal part = 2
+
+Decimal part 33.189000(processed) = 189
+Length of decimal part = 3
+
+Decimal part 33.300000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 33.411000(processed) = 411
+Length of decimal part = 3
+
+Decimal part 33.522000(processed) = 522
+Length of decimal part = 3
+
+Decimal part 33.633000(processed) = 633
+Length of decimal part = 3
+
+Decimal part 33.744000(processed) = 744
+Length of decimal part = 3
+
+Decimal part 33.855000(processed) = 855
+Length of decimal part = 3
+
+Decimal part 33.966000(processed) = 966
+Length of decimal part = 3
+
+Decimal part 34.077000(processed) = 77
+Length of decimal part = 2
+
+Decimal part 34.188000(processed) = 188
+Length of decimal part = 3
+
+Decimal part 34.299000(processed) = 299
+Length of decimal part = 3
+
+Decimal part 34.410000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 34.521000(processed) = 521
+Length of decimal part = 3
+
+Decimal part 34.632000(processed) = 632
+Length of decimal part = 3
+
+Decimal part 34.743000(processed) = 743
+Length of decimal part = 3
+
+Decimal part 34.854000(processed) = 854
+Length of decimal part = 3
+
+Decimal part 34.965000(processed) = 965
+Length of decimal part = 3
+
+Decimal part 35.076000(processed) = 76
+Length of decimal part = 2
+
+Decimal part 35.187000(processed) = 187
+Length of decimal part = 3
+
+Decimal part 35.298000(processed) = 298
+Length of decimal part = 3
+
+Decimal part 35.409000(processed) = 409
+Length of decimal part = 3
+
+Decimal part 35.520000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 35.631000(processed) = 631
+Length of decimal part = 3
+
+Decimal part 35.742000(processed) = 742
+Length of decimal part = 3
+
+Decimal part 35.853000(processed) = 853
+Length of decimal part = 3
+
+Decimal part 35.964000(processed) = 964
+Length of decimal part = 3
+
+Decimal part 36.075000(processed) = 75
+Length of decimal part = 2
+
+Decimal part 36.186000(processed) = 186
+Length of decimal part = 3
+
+Decimal part 36.297000(processed) = 297
+Length of decimal part = 3
+
+Decimal part 36.408000(processed) = 408
+Length of decimal part = 3
+
+Decimal part 36.519000(processed) = 519
+Length of decimal part = 3
+
+Decimal part 36.630000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 36.741000(processed) = 741
+Length of decimal part = 3
+
+Decimal part 36.852000(processed) = 852
+Length of decimal part = 3
+
+Decimal part 36.963000(processed) = 963
+Length of decimal part = 3
+
+Decimal part 37.074000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 37.185000(processed) = 185
+Length of decimal part = 3
+
+Decimal part 37.296000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 37.407000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 37.518000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 37.629000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 37.740000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 37.851000(processed) = 86
+Length of decimal part = 2
+
+Decimal part 37.962000(processed) = 97
+Length of decimal part = 2
+
+Decimal part 38.073000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 38.184000(processed) = 19
+Length of decimal part = 2
+
+Decimal part 38.295000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 38.406000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 38.517000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 38.628000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 38.739000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 38.850000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 38.961000(processed) = 97
+Length of decimal part = 2
+
+Decimal part 39.072000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 39.183000(processed) = 19
+Length of decimal part = 2
+
+Decimal part 39.294000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 39.405000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 39.516000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 39.627000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 39.738000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 39.849000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 39.960000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 40.071000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 40.182000(processed) = 19
+Length of decimal part = 2
+
+Decimal part 40.293000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 40.404000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 40.515000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 40.626000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 40.737000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 40.848000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 40.959000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 41.070000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 41.181000(processed) = 19
+Length of decimal part = 2
+
+Decimal part 41.292000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 41.403000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 41.514000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 41.625000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 41.736000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 41.847000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 41.958000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 42.069000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 42.180000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 42.291000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 42.402000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 42.513000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 42.624000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 42.735000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 42.846000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 42.957000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 43.068000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 43.179000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 43.290000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 43.401000(processed) = 41
+Length of decimal part = 2
+
+Decimal part 43.512000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 43.623000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 43.734000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 43.845000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 43.956000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 44.067000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 44.178000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 44.289000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 44.400000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 44.511000(processed) = 52
+Length of decimal part = 2
+
+Decimal part 44.622000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 44.733000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 44.844000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 44.955000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 45.066000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 45.177000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 45.288000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 45.399000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 45.510000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 45.621000(processed) = 63
+Length of decimal part = 2
+
+Decimal part 45.732000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 45.843000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 45.954000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 46.065000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 46.176000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 46.287000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 46.398000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 46.509000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 46.620000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 46.731000(processed) = 74
+Length of decimal part = 2
+
+Decimal part 46.842000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 46.953000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 47.064000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 47.175000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 47.286000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 47.397000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 47.508000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 47.619000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 47.730000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 47.841000(processed) = 85
+Length of decimal part = 2
+
+Decimal part 47.952000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 48.063000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 48.174000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 48.285000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 48.396000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 48.507000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 48.618000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 48.729000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 48.840000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 48.951000(processed) = 96
+Length of decimal part = 2
+
+Decimal part 49.062000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 49.173000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 49.284000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 49.395000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 49.506000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 49.617000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 49.728000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 49.839000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 49.950000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 50.061000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 50.172000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 50.283000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 50.394000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 50.505000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 50.616000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 50.727000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 50.838000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 50.949000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 51.060000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 51.171000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 51.282000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 51.393000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 51.504000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 51.615000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 51.726000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 51.837000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 51.948000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 52.059000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 52.170000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 52.281000(processed) = 29
+Length of decimal part = 2
+
+Decimal part 52.392000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 52.503000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 52.614000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 52.725000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 52.836000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 52.947000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 53.058000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 53.169000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 53.280000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 53.391000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 53.502000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 53.613000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 53.724000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 53.835000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 53.946000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 54.057000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 54.168000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 54.279000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 54.390000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 54.501000(processed) = 51
+Length of decimal part = 2
+
+Decimal part 54.612000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 54.723000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 54.834000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 54.945000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 55.056000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 55.167000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 55.278000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 55.389000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 55.500000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 55.611000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 55.722000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 55.833000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 55.944000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 56.055000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 56.166000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 56.277000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 56.388000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 56.499000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 56.610000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 56.721000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 56.832000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 56.943000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 57.054000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 57.165000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 57.276000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 57.387000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 57.498000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 57.609000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 57.720000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 57.831000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 57.942000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 58.053000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 58.164000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 58.275000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 58.386000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 58.497000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 58.608000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 58.719000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 58.830000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 58.941000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 59.052000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 59.163000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 59.274000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 59.385000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 59.496000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 59.607000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 59.718000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 59.829000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 59.940000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 60.051000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 60.162000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 60.273000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 60.384000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 60.495000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 60.606000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 60.717000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 60.828000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 60.939000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 61.050000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 61.161000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 61.272000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 61.383000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 61.494000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 61.605000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 61.716000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 61.827000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 61.938000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 62.049000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 62.160000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 62.271000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 62.382000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 62.493000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 62.604000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 62.715000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 62.826000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 62.937000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 63.048000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 63.159000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 63.270000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 63.381000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 63.492000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 63.603000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 63.714000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 63.825000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 63.936000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 64.047000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 64.158000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 64.269000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 64.380000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 64.491000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 64.602000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 64.713000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 64.824000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 64.935000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 65.046000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 65.157000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 65.268000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 65.379000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 65.490000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 65.601000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 65.712000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 65.823000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 65.934000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 66.045000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 66.156000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 66.267000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 66.378000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 66.489000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 66.600000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 66.711000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 66.822000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 66.933000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 67.044000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 67.155000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 67.266000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 67.377000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 67.488000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 67.599000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 67.710000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 67.821000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 67.932000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 68.043000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 68.154000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 68.265000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 68.376000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 68.487000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 68.598000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 68.709000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 68.820000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 68.931000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 69.042000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 69.153000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 69.264000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 69.375000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 69.486000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 69.597000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 69.708000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 69.819000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 69.930000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 70.041000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 70.152000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 70.263000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 70.374000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 70.485000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 70.596000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 70.707000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 70.818000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 70.929000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 71.040000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 71.151000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 71.262000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 71.373000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 71.484000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 71.595000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 71.706000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 71.817000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 71.928000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 72.039000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 72.150000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 72.261000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 72.372000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 72.483000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 72.594000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 72.705000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 72.816000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 72.927000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 73.038000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 73.149000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 73.260000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 73.371000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 73.482000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 73.593000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 73.704000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 73.815000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 73.926000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 74.037000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 74.148000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 74.259000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 74.370000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 74.481000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 74.592000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 74.703000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 74.814000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 74.925000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 75.036000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 75.147000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 75.258000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 75.369000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 75.480000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 75.591000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 75.702000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 75.813000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 75.924000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 76.035000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 76.146000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 76.257000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 76.368000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 76.479000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 76.590000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 76.701000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 76.812000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 76.923000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 77.034000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 77.145000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 77.256000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 77.367000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 77.478000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 77.589000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 77.700000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 77.811000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 77.922000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 78.033000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 78.144000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 78.255000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 78.366000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 78.477000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 78.588000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 78.699000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 78.810000(processed) = 81
+Length of decimal part = 2
+
+Decimal part 78.921000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 79.032000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 79.143000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 79.254000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 79.365000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 79.476000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 79.587000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 79.698000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 79.809000(processed) = 81
+Length of decimal part = 2
+
+Decimal part 79.920000(processed) = 92
+Length of decimal part = 2
+
+Decimal part 80.031000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 80.142000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 80.253000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 80.364000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 80.475000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 80.586000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 80.697000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 80.808000(processed) = 81
+Length of decimal part = 2
+
+Decimal part 80.919000(processed) = 92
+Length of decimal part = 2
+
+Decimal part 81.030000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 81.141000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 81.252000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 81.363000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 81.474000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 81.585000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 81.696000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 81.807000(processed) = 81
+Length of decimal part = 2
+
+Decimal part 81.918000(processed) = 92
+Length of decimal part = 2
+
+Decimal part 82.029000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 82.140000(processed) = 14
+Length of decimal part = 2
+
+Decimal part 82.251000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 82.362000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 82.473000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 82.584000(processed) = 584
+Length of decimal part = 3
+
+Decimal part 82.695000(processed) = 695
+Length of decimal part = 3
+
+Decimal part 82.806000(processed) = 806
+Length of decimal part = 3
+
+Decimal part 82.917000(processed) = 917
+Length of decimal part = 3
+
+Decimal part 83.028000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 83.139000(processed) = 139
+Length of decimal part = 3
+
+Decimal part 83.250000(processed) = 25
+Length of decimal part = 2
+
+Decimal part 83.361000(processed) = 361
+Length of decimal part = 3
+
+Decimal part 83.472000(processed) = 472
+Length of decimal part = 3
+
+Decimal part 83.583000(processed) = 583
+Length of decimal part = 3
+
+Decimal part 83.694000(processed) = 694
+Length of decimal part = 3
+
+Decimal part 83.805000(processed) = 805
+Length of decimal part = 3
+
+Decimal part 83.916000(processed) = 916
+Length of decimal part = 3
+
+Decimal part 84.027000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 84.138000(processed) = 138
+Length of decimal part = 3
+
+Decimal part 84.249000(processed) = 249
+Length of decimal part = 3
+
+Decimal part 84.360000(processed) = 36
+Length of decimal part = 2
+
+Decimal part 84.471000(processed) = 471
+Length of decimal part = 3
+
+Decimal part 84.582000(processed) = 582
+Length of decimal part = 3
+
+Decimal part 84.693000(processed) = 693
+Length of decimal part = 3
+
+Decimal part 84.804000(processed) = 804
+Length of decimal part = 3
+
+Decimal part 84.915000(processed) = 915
+Length of decimal part = 3
+
+Decimal part 85.026000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 85.137000(processed) = 137
+Length of decimal part = 3
+
+Decimal part 85.248000(processed) = 248
+Length of decimal part = 3
+
+Decimal part 85.359000(processed) = 359
+Length of decimal part = 3
+
+Decimal part 85.470000(processed) = 47
+Length of decimal part = 2
+
+Decimal part 85.581000(processed) = 581
+Length of decimal part = 3
+
+Decimal part 85.692000(processed) = 692
+Length of decimal part = 3
+
+Decimal part 85.803000(processed) = 803
+Length of decimal part = 3
+
+Decimal part 85.914000(processed) = 914
+Length of decimal part = 3
+
+Decimal part 86.025000(processed) = 25
+Length of decimal part = 2
+
+Decimal part 86.136000(processed) = 136
+Length of decimal part = 3
+
+Decimal part 86.247000(processed) = 247
+Length of decimal part = 3
+
+Decimal part 86.358000(processed) = 358
+Length of decimal part = 3
+
+Decimal part 86.469000(processed) = 469
+Length of decimal part = 3
+
+Decimal part 86.580000(processed) = 58
+Length of decimal part = 2
+
+Decimal part 86.691000(processed) = 691
+Length of decimal part = 3
+
+Decimal part 86.802000(processed) = 802
+Length of decimal part = 3
+
+Decimal part 86.913000(processed) = 913
+Length of decimal part = 3
+
+Decimal part 87.024000(processed) = 24
+Length of decimal part = 2
+
+Decimal part 87.135000(processed) = 135
+Length of decimal part = 3
+
+Decimal part 87.246000(processed) = 246
+Length of decimal part = 3
+
+Decimal part 87.357000(processed) = 357
+Length of decimal part = 3
+
+Decimal part 87.468000(processed) = 468
+Length of decimal part = 3
+
+Decimal part 87.579000(processed) = 579
+Length of decimal part = 3
+
+Decimal part 87.690000(processed) = 69
+Length of decimal part = 2
+
+Decimal part 87.801000(processed) = 801
+Length of decimal part = 3
+
+Decimal part 87.912000(processed) = 912
+Length of decimal part = 3
+
+Decimal part 88.023000(processed) = 23
+Length of decimal part = 2
+
+Decimal part 88.134000(processed) = 134
+Length of decimal part = 3
+
+Decimal part 88.245000(processed) = 245
+Length of decimal part = 3
+
+Decimal part 88.356000(processed) = 356
+Length of decimal part = 3
+
+Decimal part 88.467000(processed) = 467
+Length of decimal part = 3
+
+Decimal part 88.578000(processed) = 578
+Length of decimal part = 3
+
+Decimal part 88.689000(processed) = 689
+Length of decimal part = 3
+
+Decimal part 88.800000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 88.911000(processed) = 911
+Length of decimal part = 3
+
+Decimal part 89.022000(processed) = 22
+Length of decimal part = 2
+
+Decimal part 89.133000(processed) = 133
+Length of decimal part = 3
+
+Decimal part 89.244000(processed) = 244
+Length of decimal part = 3
+
+Decimal part 89.355000(processed) = 355
+Length of decimal part = 3
+
+Decimal part 89.466000(processed) = 466
+Length of decimal part = 3
+
+Decimal part 89.577000(processed) = 577
+Length of decimal part = 3
+
+Decimal part 89.688000(processed) = 688
+Length of decimal part = 3
+
+Decimal part 89.799000(processed) = 799
+Length of decimal part = 3
+
+Decimal part 89.910000(processed) = 91
+Length of decimal part = 2
+
+Decimal part 90.021000(processed) = 21
+Length of decimal part = 2
+
+Decimal part 90.132000(processed) = 132
+Length of decimal part = 3
+
+Decimal part 90.243000(processed) = 243
+Length of decimal part = 3
+
+Decimal part 90.354000(processed) = 354
+Length of decimal part = 3
+
+Decimal part 90.465000(processed) = 465
+Length of decimal part = 3
+
+Decimal part 90.576000(processed) = 576
+Length of decimal part = 3
+
+Decimal part 90.687000(processed) = 687
+Length of decimal part = 3
+
+Decimal part 90.798000(processed) = 798
+Length of decimal part = 3
+
+Decimal part 90.909000(processed) = 909
+Length of decimal part = 3
+
+Decimal part 91.020000(processed) = 2
+Length of decimal part = 1
+
+Decimal part 91.131000(processed) = 131
+Length of decimal part = 3
+
+Decimal part 91.242000(processed) = 242
+Length of decimal part = 3
+
+Decimal part 91.353000(processed) = 353
+Length of decimal part = 3
+
+Decimal part 91.464000(processed) = 464
+Length of decimal part = 3
+
+Decimal part 91.575000(processed) = 575
+Length of decimal part = 3
+
+Decimal part 91.686000(processed) = 686
+Length of decimal part = 3
+
+Decimal part 91.797000(processed) = 797
+Length of decimal part = 3
+
+Decimal part 91.908000(processed) = 908
+Length of decimal part = 3
+
+Decimal part 92.019000(processed) = 19
+Length of decimal part = 2
+
+Decimal part 92.130000(processed) = 13
+Length of decimal part = 2
+
+Decimal part 92.241000(processed) = 241
+Length of decimal part = 3
+
+Decimal part 92.352000(processed) = 352
+Length of decimal part = 3
+
+Decimal part 92.463000(processed) = 463
+Length of decimal part = 3
+
+Decimal part 92.574000(processed) = 574
+Length of decimal part = 3
+
+Decimal part 92.685000(processed) = 685
+Length of decimal part = 3
+
+Decimal part 92.796000(processed) = 796
+Length of decimal part = 3
+
+Decimal part 92.907000(processed) = 907
+Length of decimal part = 3
+
+Decimal part 93.018000(processed) = 18
+Length of decimal part = 2
+
+Decimal part 93.129000(processed) = 129
+Length of decimal part = 3
+
+Decimal part 93.240000(processed) = 24
+Length of decimal part = 2
+
+Decimal part 93.351000(processed) = 351
+Length of decimal part = 3
+
+Decimal part 93.462000(processed) = 462
+Length of decimal part = 3
+
+Decimal part 93.573000(processed) = 573
+Length of decimal part = 3
+
+Decimal part 93.684000(processed) = 684
+Length of decimal part = 3
+
+Decimal part 93.795000(processed) = 795
+Length of decimal part = 3
+
+Decimal part 93.906000(processed) = 906
+Length of decimal part = 3
+
+Decimal part 94.017000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 94.128000(processed) = 128
+Length of decimal part = 3
+
+Decimal part 94.239000(processed) = 239
+Length of decimal part = 3
+
+Decimal part 94.350000(processed) = 35
+Length of decimal part = 2
+
+Decimal part 94.461000(processed) = 461
+Length of decimal part = 3
+
+Decimal part 94.572000(processed) = 572
+Length of decimal part = 3
+
+Decimal part 94.683000(processed) = 683
+Length of decimal part = 3
+
+Decimal part 94.794000(processed) = 794
+Length of decimal part = 3
+
+Decimal part 94.905000(processed) = 905
+Length of decimal part = 3
+
+Decimal part 95.016000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 95.127000(processed) = 127
+Length of decimal part = 3
+
+Decimal part 95.238000(processed) = 238
+Length of decimal part = 3
+
+Decimal part 95.349000(processed) = 349
+Length of decimal part = 3
+
+Decimal part 95.460000(processed) = 46
+Length of decimal part = 2
+
+Decimal part 95.571000(processed) = 571
+Length of decimal part = 3
+
+Decimal part 95.682000(processed) = 682
+Length of decimal part = 3
+
+Decimal part 95.793000(processed) = 793
+Length of decimal part = 3
+
+Decimal part 95.904000(processed) = 904
+Length of decimal part = 3
+
+Decimal part 96.015000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 96.126000(processed) = 126
+Length of decimal part = 3
+
+Decimal part 96.237000(processed) = 237
+Length of decimal part = 3
+
+Decimal part 96.348000(processed) = 348
+Length of decimal part = 3
+
+Decimal part 96.459000(processed) = 459
+Length of decimal part = 3
+
+Decimal part 96.570000(processed) = 57
+Length of decimal part = 2
+
+Decimal part 96.681000(processed) = 681
+Length of decimal part = 3
+
+Decimal part 96.792000(processed) = 792
+Length of decimal part = 3
+
+Decimal part 96.903000(processed) = 903
+Length of decimal part = 3
+
+Decimal part 97.014000(processed) = 14
+Length of decimal part = 2
+
+Decimal part 97.125000(processed) = 125
+Length of decimal part = 3
+
+Decimal part 97.236000(processed) = 236
+Length of decimal part = 3
+
+Decimal part 97.347000(processed) = 347
+Length of decimal part = 3
+
+Decimal part 97.458000(processed) = 458
+Length of decimal part = 3
+
+Decimal part 97.569000(processed) = 569
+Length of decimal part = 3
+
+Decimal part 97.680000(processed) = 68
+Length of decimal part = 2
+
+Decimal part 97.791000(processed) = 791
+Length of decimal part = 3
+
+Decimal part 97.902000(processed) = 902
+Length of decimal part = 3
+
+Decimal part 98.013000(processed) = 13
+Length of decimal part = 2
+
+Decimal part 98.124000(processed) = 124
+Length of decimal part = 3
+
+Decimal part 98.235000(processed) = 235
+Length of decimal part = 3
+
+Decimal part 98.346000(processed) = 346
+Length of decimal part = 3
+
+Decimal part 98.457000(processed) = 457
+Length of decimal part = 3
+
+Decimal part 98.568000(processed) = 568
+Length of decimal part = 3
+
+Decimal part 98.679000(processed) = 679
+Length of decimal part = 3
+
+Decimal part 98.790000(processed) = 79
+Length of decimal part = 2
+
+Decimal part 98.901000(processed) = 901
+Length of decimal part = 3
+
+Decimal part 99.012000(processed) = 12
+Length of decimal part = 2
+
+Decimal part 99.123000(processed) = 123
+Length of decimal part = 3
+
+Decimal part 99.234000(processed) = 234
+Length of decimal part = 3
+
+Decimal part 99.345000(processed) = 345
+Length of decimal part = 3
+
+Decimal part 99.456000(processed) = 456
+Length of decimal part = 3
+
+Decimal part 99.567000(processed) = 567
+Length of decimal part = 3
+
+Decimal part 99.678000(processed) = 678
+Length of decimal part = 3
+
+Decimal part 99.789000(processed) = 789
+Length of decimal part = 3
+
+Decimal part 99.900000(processed) = 9
+Length of decimal part = 1
+
+Decimal part 100.011000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 100.122000(processed) = 122
+Length of decimal part = 3
+
+Decimal part 100.233000(processed) = 233
+Length of decimal part = 3
+
+Decimal part 100.344000(processed) = 344
+Length of decimal part = 3
+
+Decimal part 100.455000(processed) = 455
+Length of decimal part = 3
+
+Decimal part 100.566000(processed) = 566
+Length of decimal part = 3
+
+Decimal part 100.677000(processed) = 677
+Length of decimal part = 3
+
+Decimal part 100.788000(processed) = 788
+Length of decimal part = 3
+
+Decimal part 100.899000(processed) = 899
+Length of decimal part = 3
+
+Decimal part 101.010000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 101.121000(processed) = 121
+Length of decimal part = 3
+
+Decimal part 101.232000(processed) = 232
+Length of decimal part = 3
+
+Decimal part 101.343000(processed) = 343
+Length of decimal part = 3
+
+Decimal part 101.454000(processed) = 454
+Length of decimal part = 3
+
+Decimal part 101.565000(processed) = 565
+Length of decimal part = 3
+
+Decimal part 101.676000(processed) = 676
+Length of decimal part = 3
+
+Decimal part 101.787000(processed) = 787
+Length of decimal part = 3
+
+Decimal part 101.898000(processed) = 898
+Length of decimal part = 3
+
+Decimal part 102.009000(processed) = 9
+Length of decimal part = 1
+
+Decimal part 102.120000(processed) = 12
+Length of decimal part = 2
+
+Decimal part 102.231000(processed) = 231
+Length of decimal part = 3
+
+Decimal part 102.342000(processed) = 342
+Length of decimal part = 3
+
+Decimal part 102.453000(processed) = 453
+Length of decimal part = 3
+
+Decimal part 102.564000(processed) = 564
+Length of decimal part = 3
+
+Decimal part 102.675000(processed) = 675
+Length of decimal part = 3
+
+Decimal part 102.786000(processed) = 786
+Length of decimal part = 3
+
+Decimal part 102.897000(processed) = 897
+Length of decimal part = 3
+
+Decimal part 103.008000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 103.119000(processed) = 119
+Length of decimal part = 3
+
+Decimal part 103.230000(processed) = 23
+Length of decimal part = 2
+
+Decimal part 103.341000(processed) = 341
+Length of decimal part = 3
+
+Decimal part 103.452000(processed) = 452
+Length of decimal part = 3
+
+Decimal part 103.563000(processed) = 563
+Length of decimal part = 3
+
+Decimal part 103.674000(processed) = 674
+Length of decimal part = 3
+
+Decimal part 103.785000(processed) = 785
+Length of decimal part = 3
+
+Decimal part 103.896000(processed) = 896
+Length of decimal part = 3
+
+Decimal part 104.007000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 104.118000(processed) = 118
+Length of decimal part = 3
+
+Decimal part 104.229000(processed) = 229
+Length of decimal part = 3
+
+Decimal part 104.340000(processed) = 34
+Length of decimal part = 2
+
+Decimal part 104.451000(processed) = 451
+Length of decimal part = 3
+
+Decimal part 104.562000(processed) = 562
+Length of decimal part = 3
+
+Decimal part 104.673000(processed) = 673
+Length of decimal part = 3
+
+Decimal part 104.784000(processed) = 784
+Length of decimal part = 3
+
+Decimal part 104.895000(processed) = 895
+Length of decimal part = 3
+
+Decimal part 105.006000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 105.117000(processed) = 117
+Length of decimal part = 3
+
+Decimal part 105.228000(processed) = 228
+Length of decimal part = 3
+
+Decimal part 105.339000(processed) = 339
+Length of decimal part = 3
+
+Decimal part 105.450000(processed) = 45
+Length of decimal part = 2
+
+Decimal part 105.561000(processed) = 561
+Length of decimal part = 3
+
+Decimal part 105.672000(processed) = 672
+Length of decimal part = 3
+
+Decimal part 105.783000(processed) = 783
+Length of decimal part = 3
+
+Decimal part 105.894000(processed) = 894
+Length of decimal part = 3
+
+Decimal part 106.005000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 106.116000(processed) = 116
+Length of decimal part = 3
+
+Decimal part 106.227000(processed) = 227
+Length of decimal part = 3
+
+Decimal part 106.338000(processed) = 338
+Length of decimal part = 3
+
+Decimal part 106.449000(processed) = 449
+Length of decimal part = 3
+
+Decimal part 106.560000(processed) = 56
+Length of decimal part = 2
+
+Decimal part 106.671000(processed) = 671
+Length of decimal part = 3
+
+Decimal part 106.782000(processed) = 782
+Length of decimal part = 3
+
+Decimal part 106.893000(processed) = 893
+Length of decimal part = 3
+
+Decimal part 107.004000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 107.115000(processed) = 115
+Length of decimal part = 3
+
+Decimal part 107.226000(processed) = 226
+Length of decimal part = 3
+
+Decimal part 107.337000(processed) = 337
+Length of decimal part = 3
+
+Decimal part 107.448000(processed) = 448
+Length of decimal part = 3
+
+Decimal part 107.559000(processed) = 559
+Length of decimal part = 3
+
+Decimal part 107.670000(processed) = 67
+Length of decimal part = 2
+
+Decimal part 107.781000(processed) = 781
+Length of decimal part = 3
+
+Decimal part 107.892000(processed) = 892
+Length of decimal part = 3
+
+Decimal part 108.003000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 108.114000(processed) = 114
+Length of decimal part = 3
+
+Decimal part 108.225000(processed) = 225
+Length of decimal part = 3
+
+Decimal part 108.336000(processed) = 336
+Length of decimal part = 3
+
+Decimal part 108.447000(processed) = 447
+Length of decimal part = 3
+
+Decimal part 108.558000(processed) = 558
+Length of decimal part = 3
+
+Decimal part 108.669000(processed) = 669
+Length of decimal part = 3
+
+Decimal part 108.780000(processed) = 78
+Length of decimal part = 2
+
+Decimal part 108.891000(processed) = 891
+Length of decimal part = 3
+
+Decimal part 109.002000(processed) = 2
+Length of decimal part = 1
+
+Decimal part 109.113000(processed) = 113
+Length of decimal part = 3
+
+Decimal part 109.224000(processed) = 224
+Length of decimal part = 3
+
+Decimal part 109.335000(processed) = 335
+Length of decimal part = 3
+
+Decimal part 109.446000(processed) = 446
+Length of decimal part = 3
+
+Decimal part 109.557000(processed) = 557
+Length of decimal part = 3
+
+Decimal part 109.668000(processed) = 668
+Length of decimal part = 3
+
+Decimal part 109.779000(processed) = 779
+Length of decimal part = 3
+
+Decimal part 109.890000(processed) = 89
+Length of decimal part = 2
+
+Decimal part 110.001000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 110.112000(processed) = 112
+Length of decimal part = 3
+
+Decimal part 110.223000(processed) = 223
+Length of decimal part = 3
+
+Decimal part 110.334000(processed) = 334
+Length of decimal part = 3
+
+Decimal part 110.445000(processed) = 445
+Length of decimal part = 3
+
+Decimal part 110.556000(processed) = 556
+Length of decimal part = 3
+
+Decimal part 110.667000(processed) = 667
+Length of decimal part = 3
+
+Decimal part 110.778000(processed) = 778
+Length of decimal part = 3
+
+Decimal part 110.889000(processed) = 889
+Length of decimal part = 3
+
+Decimal part 111.000000(processed) = 0
+Length of decimal part = 1
+
