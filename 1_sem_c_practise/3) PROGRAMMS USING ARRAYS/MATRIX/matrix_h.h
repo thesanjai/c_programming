@@ -25,6 +25,12 @@ void print_matrix(matrix mat); // used for printing the info of the marix
 int find_length_int(int a); //used for calulating width of int part, to use in printf statement
 int find_decimal_part(double a); // used to find the decimal part of the double
 void free_matrix_memory(matrix *mat); // used to release the dynamically allocated memory
+bool is_symmetric(matrix mat); 
+bool is_skew_symmetric(matrix mat);
+bool is_identity(matrix mat);
+bool is_diagonal(matrix mat);
+bool is_upper_triangular(matrix mat);
+bool is_lower_triangular(matrix mat);
 
 
 
@@ -412,4 +418,78 @@ void free_matrix_memory(matrix *mat){
     free(mat->a);
 
     printf("Matrix \" %s\'s \" memory is released successfully......!\n",mat->name);
+}
+
+inline bool is_symmetric(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(mat.a[i][j] != mat.a[j][i]){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_skew_symmetric(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(mat.a[i][j] != -mat.a[j][i]){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_identity(matrix mat)
+{   
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i==j && mat.a[i][j] != 1){
+                return false;
+            }else if(i!=j && mat.a[i][j] != 0){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_diagonal(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i!=j && mat.a[i][j]!= 0){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_upper_triangular(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i>j && mat.a[i][j]!= 0){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_lower_triangular(matrix mat)
+{   
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i<j && mat.a[i][j]!= 0){
+                return false;
+            }
+        }
+    }
+    return true;
 }
