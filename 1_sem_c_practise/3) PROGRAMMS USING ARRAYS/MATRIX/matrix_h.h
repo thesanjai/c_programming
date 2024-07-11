@@ -140,7 +140,7 @@ int find_decimal_part(double a) {
 void print_matrix(matrix mat){
     printf("\n");
     printf("The matrix \"%s\" is : \n",mat.name);
-    printf("Diemension of matrix is ( %d x %d )\n",mat.row,mat.col);
+    printf("Diemension of the matrix is ( %d x %d )\n",mat.row,mat.col);
 
     //code for calulating max width of the matrix element
     int len_int = -9999999;
