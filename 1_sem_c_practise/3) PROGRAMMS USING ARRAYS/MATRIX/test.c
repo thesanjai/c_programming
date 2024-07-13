@@ -27,6 +27,6 @@ int main() {
     printf("fractional data = %d\n",fractional_data);
 */
 
-printf("%lf",data);
+printf("%lf",data)
     return 0;
 }
