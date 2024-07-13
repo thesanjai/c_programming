@@ -25,12 +25,12 @@ void print_matrix(matrix mat); // used for printing the info of the marix
 int find_length_int(int a); //used for calulating width of int part, to use in printf statement
 int find_decimal_part(double a); // used to find the decimal part of the double
 void free_matrix_memory(matrix *mat); // used to release the dynamically allocated memory
-bool is_symmetric(matrix mat); 
-bool is_skew_symmetric(matrix mat);
-bool is_identity(matrix mat);
-bool is_diagonal(matrix mat);
-bool is_upper_triangular(matrix mat);
-bool is_lower_triangular(matrix mat);
+bool is_symmetric(matrix mat); // used for checking matrix is symmetric
+bool is_skew_symmetric(matrix mat); // used for checking matrix is skew-symmetric
+bool is_identity(matrix mat); // used for checking matrix is identity
+bool is_diagonal(matrix mat); // used for checking matrix is diagonal
+bool is_upper_triangular(matrix mat); // used for checking matrix is upper triangular
+bool is_lower_triangular(matrix mat); // used for checking matrix is lower triangular 
 
 
 
