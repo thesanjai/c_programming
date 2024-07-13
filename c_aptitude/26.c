@@ -12,5 +12,5 @@ int main(){
 
 /*NOTE 
     ',' Operator evaluates -> LEFT to RIGHT
-    and return the the left most value
+    and return the the RIGHT most value
 */

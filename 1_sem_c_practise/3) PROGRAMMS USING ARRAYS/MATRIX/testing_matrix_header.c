@@ -56,5 +56,28 @@ int main(){
     free_matrix_memory(result1);
     free_matrix_memory(result1);
     free_matrix_memory(result3);*/
+
+    matrix a1,a2,a3,a4,a5,a6;
+
+    create_matrix(&a1);
+    create_matrix(&a2);
+    create_matrix(&a3);
+    create_matrix(&a4);
+    create_matrix(&a5);
+    create_matrix(&a6);
+
+    if(is_symmetric(a1)){
+        printf("Matrix \"%s\" is symmetric\n",a1.name);
+    }else if(is_skew_symmetric(a2)){
+        printf("Matrix \"%s\" is skew symmetric\n",a2.name);
+    }else if(is_diagonal(a3)){
+        printf("Matrix \"%s\" is diagonal\n",a3.name);
+    }else if(is_identity(a4)){
+        printf("Matirx \"%s\" is identity\n",a4.name);
+    }else if(is_lower_triangular(a5)){
+        printf("Matrix \"%s\" is lower triangular\n",a5.name);
+    }else if(is_upper_triangular(a6)){
+        printf("Matrix \"%s\" is upper triangular\n",a6.name);
+    }
     return 0;
 }

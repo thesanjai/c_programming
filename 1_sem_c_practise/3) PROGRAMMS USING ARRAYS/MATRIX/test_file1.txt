@@ -1,0 +1,3000 @@
+Decimal part 0.110000(processed) = 11
+Length of decimal part = 2
+
+Decimal part 0.220000(processed) = 22
+Length of decimal part = 2
+
+Decimal part 0.330000(processed) = 33
+Length of decimal part = 2
+
+Decimal part 0.440000(processed) = 44
+Length of decimal part = 2
+
+Decimal part 0.550000(processed) = 55
+Length of decimal part = 2
+
+Decimal part 0.660000(processed) = 66
+Length of decimal part = 2
+
+Decimal part 0.770000(processed) = 77
+Length of decimal part = 2
+
+Decimal part 0.880000(processed) = 88
+Length of decimal part = 2
+
+Decimal part 0.990000(processed) = 99
+Length of decimal part = 2
+
+Decimal part 1.100000(processed) = 1
+Length of decimal part = 1
+
+Decimal part 1.210000(processed) = 21
+Length of decimal part = 2
+
+Decimal part 1.320000(processed) = 32
+Length of decimal part = 2
+
+Decimal part 1.430000(processed) = 43
+Length of decimal part = 2
+
+Decimal part 1.540000(processed) = 54
+Length of decimal part = 2
+
+Decimal part 1.650000(processed) = 65
+Length of decimal part = 2
+
+Decimal part 1.760000(processed) = 76
+Length of decimal part = 2
+
+Decimal part 1.870000(processed) = 87
+Length of decimal part = 2
+
+Decimal part 1.980000(processed) = 98
+Length of decimal part = 2
+
+Decimal part 2.090000(processed) = 9
+Length of decimal part = 1
+
+Decimal part 2.200000(processed) = 2
+Length of decimal part = 1
+
+Decimal part 2.310000(processed) = 31
+Length of decimal part = 2
+
+Decimal part 2.420000(processed) = 42
+Length of decimal part = 2
+
+Decimal part 2.530000(processed) = 53
+Length of decimal part = 2
+
+Decimal part 2.640000(processed) = 64
+Length of decimal part = 2
+
+Decimal part 2.750000(processed) = 75
+Length of decimal part = 2
+
+Decimal part 2.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 2.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 3.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 3.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 3.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 3.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 3.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 3.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 3.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 3.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 3.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 4.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 4.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 4.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 4.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 4.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 4.620000(processed) = 62
+Length of decimal part = 2
+
+Decimal part 4.730000(processed) = 73
+Length of decimal part = 2
+
+Decimal part 4.840000(processed) = 84
+Length of decimal part = 2
+
+Decimal part 4.950000(processed) = 95
+Length of decimal part = 2
+
+Decimal part 5.060000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 5.170000(processed) = 17
+Length of decimal part = 2
+
+Decimal part 5.280000(processed) = 28
+Length of decimal part = 2
+
+Decimal part 5.390000(processed) = 39
+Length of decimal part = 2
+
+Decimal part 5.500000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 5.610000(processed) = 61
+Length of decimal part = 2
+
+Decimal part 5.720000(processed) = 72
+Length of decimal part = 2
+
+Decimal part 5.830000(processed) = 83
+Length of decimal part = 2
+
+Decimal part 5.940000(processed) = 94
+Length of decimal part = 2
+
+Decimal part 6.050000(processed) = 5
+Length of decimal part = 1
+
+Decimal part 6.160000(processed) = 16
+Length of decimal part = 2
+
+Decimal part 6.270000(processed) = 27
+Length of decimal part = 2
+
+Decimal part 6.380000(processed) = 38
+Length of decimal part = 2
+
+Decimal part 6.490000(processed) = 49
+Length of decimal part = 2
+
+Decimal part 6.600000(processed) = 6
+Length of decimal part = 1
+
+Decimal part 6.710000(processed) = 71
+Length of decimal part = 2
+
+Decimal part 6.820000(processed) = 82
+Length of decimal part = 2
+
+Decimal part 6.930000(processed) = 93
+Length of decimal part = 2
+
+Decimal part 7.040000(processed) = 4
+Length of decimal part = 1
+
+Decimal part 7.150000(processed) = 15
+Length of decimal part = 2
+
+Decimal part 7.260000(processed) = 26
+Length of decimal part = 2
+
+Decimal part 7.370000(processed) = 37
+Length of decimal part = 2
+
+Decimal part 7.480000(processed) = 48
+Length of decimal part = 2
+
+Decimal part 7.590000(processed) = 59
+Length of decimal part = 2
+
+Decimal part 7.700000(processed) = 7
+Length of decimal part = 1
+
+Decimal part 7.810000(processed) = 81
+Length of decimal part = 2
+
+Decimal part 7.920000(processed) = 92
+Length of decimal part = 2
+
+Decimal part 8.030000(processed) = 3
+Length of decimal part = 1
+
+Decimal part 8.140000(processed) = 14
+Length of decimal part = 2
+
+Decimal part 8.250000(processed) = 25
+Length of decimal part = 2
+
+Decimal part 8.360000(processed) = 36
+Length of decimal part = 2
+
+Decimal part 8.470000(processed) = 47
+Length of decimal part = 2
+
+Decimal part 8.580000(processed) = 58
+Length of decimal part = 2
+
+Decimal part 8.690000(processed) = 69
+Length of decimal part = 2
+
+Decimal part 8.800000(processed) = 8
+Length of decimal part = 1
+
+Decimal part 8.910000(processed) = 91
+Length of decimal part = 2
+
+Decimal part 9.020000(processed) = 2
+Length of decimal part = 1
+
+Decimal part 9.130000(processed) = 13
+Length of decimal part = 2
+
+Decimal part 9.240000(processed) = 24
+Length of decimal part = 2
+
+Decimal part 9.350000(processed) = 35
+Length of decimal part = 2
+
+Decimal part 9.460000(processed) = 46
+Length of decimal part = 2
+
+Decimal part 9.570000(processed) = 57
+Length of decimal part = 2
+
+Decimal part 9.680000(processed) = 68
+Length of decimal part = 2
+
+Decimal part 9.790000(processed) = 79
+Length of decimal part = 2
+
+Decimal part 9.900000(processed) = 9
+Length of decimal part = 1
+
+Decimal part 10.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 10.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 10.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 10.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 10.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 10.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 10.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 10.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 10.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 11.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 11.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 11.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 11.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 11.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 11.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 11.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 11.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 11.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 11.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 12.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 12.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 12.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 12.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 12.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 12.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 12.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 12.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 12.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 13.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 13.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 13.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 13.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 13.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 13.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 13.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 13.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 13.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 14.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 14.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 14.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 14.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 14.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 14.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 14.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 14.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 14.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 15.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 15.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 15.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 15.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 15.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 15.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 15.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 15.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 15.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 16.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 16.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 16.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 16.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 16.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 16.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 16.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 16.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 16.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 17.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 17.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 17.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 17.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 17.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 17.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 17.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 17.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 17.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 18.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 18.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 18.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 18.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 18.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 18.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 18.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 18.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 18.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 19.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 19.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 19.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 19.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 19.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 19.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 19.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 19.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 19.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 20.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 20.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 20.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 20.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 20.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 20.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 20.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 20.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 20.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 21.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 21.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 21.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 21.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 21.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 21.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 21.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 21.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 21.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 22.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 22.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 22.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 22.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 22.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 22.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 22.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 22.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 22.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 22.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 23.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 23.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 23.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 23.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 23.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 23.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 23.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 23.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 23.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 24.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 24.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 24.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 24.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 24.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 24.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 24.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 24.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 24.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 25.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 25.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 25.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 25.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 25.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 25.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 25.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 25.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 25.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 26.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 26.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 26.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 26.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 26.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 26.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 26.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 26.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 26.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 27.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 27.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 27.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 27.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 27.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 27.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 27.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 27.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 27.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 28.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 28.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 28.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 28.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 28.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 28.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 28.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 28.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 28.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 29.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 29.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 29.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 29.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 29.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 29.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 29.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 29.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 29.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 30.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 30.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 30.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 30.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 30.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 30.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 30.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 30.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 30.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 31.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 31.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 31.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 31.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 31.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 31.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 31.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 31.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 31.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 32.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 32.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 32.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 32.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 32.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 32.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 32.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 32.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 32.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 33.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 33.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 33.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 33.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 33.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 33.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 33.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 33.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 33.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 33.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 34.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 34.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 34.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 34.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 34.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 34.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 34.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 34.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 34.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 35.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 35.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 35.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 35.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 35.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 35.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 35.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 35.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 35.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 36.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 36.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 36.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 36.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 36.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 36.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 36.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 36.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 36.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 37.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 37.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 37.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 37.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 37.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 37.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 37.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 37.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 37.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 38.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 38.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 38.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 38.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 38.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 38.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 38.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 38.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 38.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 39.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 39.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 39.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 39.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 39.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 39.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 39.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 39.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 39.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 40.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 40.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 40.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 40.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 40.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 40.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 40.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 40.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 40.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 41.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 41.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 41.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 41.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 41.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 41.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 41.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 41.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 41.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 42.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 42.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 42.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 42.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 42.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 42.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 42.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 42.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 42.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 43.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 43.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 43.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 43.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 43.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 43.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 43.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 43.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 43.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 44.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 44.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 44.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 44.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 44.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 44.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 44.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 44.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 44.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 44.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 45.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 45.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 45.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 45.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 45.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 45.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 45.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 45.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 45.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 46.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 46.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 46.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 46.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 46.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 46.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 46.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 46.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 46.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 47.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 47.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 47.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 47.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 47.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 47.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 47.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 47.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 47.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 48.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 48.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 48.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 48.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 48.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 48.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 48.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 48.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 48.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 49.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 49.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 49.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 49.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 49.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 49.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 49.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 49.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 49.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 50.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 50.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 50.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 50.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 50.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 50.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 50.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 50.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 50.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 51.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 51.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 51.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 51.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 51.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 51.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 51.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 51.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 51.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 52.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 52.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 52.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 52.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 52.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 52.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 52.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 52.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 52.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 53.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 53.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 53.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 53.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 53.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 53.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 53.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 53.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 53.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 54.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 54.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 54.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 54.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 54.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 54.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 54.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 54.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 54.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 55.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 55.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 55.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 55.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 55.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 55.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 55.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 55.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 55.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 55.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 56.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 56.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 56.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 56.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 56.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 56.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 56.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 56.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 56.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 57.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 57.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 57.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 57.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 57.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 57.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 57.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 57.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 57.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 58.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 58.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 58.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 58.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 58.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 58.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 58.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 58.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 58.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 59.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 59.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 59.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 59.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 59.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 59.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 59.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 59.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 59.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 60.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 60.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 60.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 60.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 60.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 60.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 60.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 60.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 60.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 61.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 61.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 61.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 61.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 61.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 61.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 61.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 61.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 61.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 62.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 62.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 62.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 62.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 62.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 62.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 62.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 62.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 62.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 63.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 63.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 63.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 63.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 63.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 63.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 63.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 63.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 63.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 64.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 64.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 64.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 64.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 64.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 64.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 64.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 64.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 64.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 65.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 65.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 65.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 65.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 65.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 65.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 65.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 65.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 65.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 66.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 66.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 66.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 66.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 66.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 66.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 66.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 66.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 66.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 66.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 67.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 67.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 67.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 67.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 67.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 67.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 67.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 67.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 67.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 68.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 68.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 68.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 68.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 68.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 68.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 68.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 68.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 68.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 69.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 69.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 69.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 69.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 69.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 69.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 69.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 69.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 69.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 70.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 70.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 70.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 70.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 70.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 70.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 70.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 70.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 70.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 71.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 71.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 71.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 71.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 71.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 71.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 71.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 71.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 71.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 72.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 72.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 72.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 72.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 72.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 72.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 72.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 72.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 72.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 73.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 73.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 73.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 73.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 73.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 73.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 73.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 73.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 73.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 74.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 74.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 74.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 74.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 74.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 74.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 74.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 74.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 74.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 75.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 75.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 75.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 75.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 75.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 75.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 75.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 75.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 75.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 76.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 76.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 76.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 76.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 76.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 76.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 76.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 76.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 76.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 77.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 77.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 77.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 77.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 77.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 77.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 77.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 77.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 77.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 77.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 78.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 78.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 78.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 78.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 78.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 78.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 78.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 78.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 78.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 79.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 79.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 79.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 79.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 79.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 79.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 79.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 79.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 79.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 80.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 80.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 80.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 80.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 80.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 80.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 80.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 80.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 80.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 81.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 81.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 81.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 81.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 81.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 81.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 81.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 81.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 81.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 82.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 82.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 82.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 82.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 82.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 82.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 82.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 82.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 82.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 83.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 83.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 83.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 83.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 83.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 83.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 83.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 83.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 83.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 84.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 84.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 84.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 84.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 84.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 84.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 84.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 84.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 84.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 85.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 85.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 85.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 85.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 85.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 85.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 85.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 85.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 85.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 86.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 86.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 86.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 86.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 86.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 86.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 86.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 86.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 86.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 87.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 87.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 87.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 87.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 87.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 87.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 87.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 87.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 87.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 88.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 88.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 88.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 88.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 88.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 88.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 88.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 88.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 88.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 88.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 89.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 89.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 89.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 89.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 89.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 89.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 89.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 89.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 89.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 90.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 90.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 90.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 90.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 90.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 90.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 90.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 90.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 90.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 91.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 91.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 91.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 91.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 91.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 91.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 91.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 91.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 91.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 92.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 92.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 92.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 92.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 92.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 92.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 92.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 92.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 92.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 93.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 93.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 93.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 93.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 93.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 93.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 93.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 93.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 93.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 94.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 94.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 94.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 94.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 94.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 94.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 94.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 94.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 94.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 95.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 95.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 95.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 95.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 95.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 95.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 95.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 95.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 95.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 96.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 96.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 96.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 96.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 96.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 96.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 96.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 96.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 96.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 97.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 97.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 97.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 97.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 97.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 97.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 97.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 97.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 97.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 98.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 98.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 98.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 98.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 98.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 98.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 98.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 98.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 98.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 99.000000(processed) = 999999
+Length of decimal part = 6
+
+Decimal part 99.110000(processed) = 109999
+Length of decimal part = 6
+
+Decimal part 99.220000(processed) = 219999
+Length of decimal part = 6
+
+Decimal part 99.330000(processed) = 329999
+Length of decimal part = 6
+
+Decimal part 99.440000(processed) = 439999
+Length of decimal part = 6
+
+Decimal part 99.550000(processed) = 549999
+Length of decimal part = 6
+
+Decimal part 99.660000(processed) = 659999
+Length of decimal part = 6
+
+Decimal part 99.770000(processed) = 769999
+Length of decimal part = 6
+
+Decimal part 99.880000(processed) = 879999
+Length of decimal part = 6
+
+Decimal part 99.990000(processed) = 989999
+Length of decimal part = 6
+
+Decimal part 100.100000(processed) = 99999
+Length of decimal part = 5
+
+Decimal part 100.210000(processed) = 209999
+Length of decimal part = 6
+
+Decimal part 100.320000(processed) = 319999
+Length of decimal part = 6
+
+Decimal part 100.430000(processed) = 429999
+Length of decimal part = 6
+
+Decimal part 100.540000(processed) = 539999
+Length of decimal part = 6
+
+Decimal part 100.650000(processed) = 649999
+Length of decimal part = 6
+
+Decimal part 100.760000(processed) = 759999
+Length of decimal part = 6
+
+Decimal part 100.870000(processed) = 869999
+Length of decimal part = 6
+
+Decimal part 100.980000(processed) = 979999
+Length of decimal part = 6
+
+Decimal part 101.090000(processed) = 89999
+Length of decimal part = 5
+
+Decimal part 101.200000(processed) = 199999
+Length of decimal part = 6
+
+Decimal part 101.310000(processed) = 309999
+Length of decimal part = 6
+
+Decimal part 101.420000(processed) = 419999
+Length of decimal part = 6
+
+Decimal part 101.530000(processed) = 529999
+Length of decimal part = 6
+
+Decimal part 101.640000(processed) = 639999
+Length of decimal part = 6
+
+Decimal part 101.750000(processed) = 749999
+Length of decimal part = 6
+
+Decimal part 101.860000(processed) = 859999
+Length of decimal part = 6
+
+Decimal part 101.970000(processed) = 969999
+Length of decimal part = 6
+
+Decimal part 102.080000(processed) = 79999
+Length of decimal part = 5
+
+Decimal part 102.190000(processed) = 189999
+Length of decimal part = 6
+
+Decimal part 102.300000(processed) = 299999
+Length of decimal part = 6
+
+Decimal part 102.410000(processed) = 409999
+Length of decimal part = 6
+
+Decimal part 102.520000(processed) = 519999
+Length of decimal part = 6
+
+Decimal part 102.630000(processed) = 629999
+Length of decimal part = 6
+
+Decimal part 102.740000(processed) = 739999
+Length of decimal part = 6
+
+Decimal part 102.850000(processed) = 849999
+Length of decimal part = 6
+
+Decimal part 102.960000(processed) = 959999
+Length of decimal part = 6
+
+Decimal part 103.070000(processed) = 69999
+Length of decimal part = 5
+
+Decimal part 103.180000(processed) = 179999
+Length of decimal part = 6
+
+Decimal part 103.290000(processed) = 289999
+Length of decimal part = 6
+
+Decimal part 103.400000(processed) = 399999
+Length of decimal part = 6
+
+Decimal part 103.510000(processed) = 509999
+Length of decimal part = 6
+
+Decimal part 103.620000(processed) = 619999
+Length of decimal part = 6
+
+Decimal part 103.730000(processed) = 729999
+Length of decimal part = 6
+
+Decimal part 103.840000(processed) = 839999
+Length of decimal part = 6
+
+Decimal part 103.950000(processed) = 949999
+Length of decimal part = 6
+
+Decimal part 104.060000(processed) = 59999
+Length of decimal part = 5
+
+Decimal part 104.170000(processed) = 169999
+Length of decimal part = 6
+
+Decimal part 104.280000(processed) = 279999
+Length of decimal part = 6
+
+Decimal part 104.390000(processed) = 389999
+Length of decimal part = 6
+
+Decimal part 104.500000(processed) = 499999
+Length of decimal part = 6
+
+Decimal part 104.610000(processed) = 609999
+Length of decimal part = 6
+
+Decimal part 104.720000(processed) = 719999
+Length of decimal part = 6
+
+Decimal part 104.830000(processed) = 829999
+Length of decimal part = 6
+
+Decimal part 104.940000(processed) = 939999
+Length of decimal part = 6
+
+Decimal part 105.050000(processed) = 49999
+Length of decimal part = 5
+
+Decimal part 105.160000(processed) = 159999
+Length of decimal part = 6
+
+Decimal part 105.270000(processed) = 269999
+Length of decimal part = 6
+
+Decimal part 105.380000(processed) = 379999
+Length of decimal part = 6
+
+Decimal part 105.490000(processed) = 489999
+Length of decimal part = 6
+
+Decimal part 105.600000(processed) = 599999
+Length of decimal part = 6
+
+Decimal part 105.710000(processed) = 709999
+Length of decimal part = 6
+
+Decimal part 105.820000(processed) = 819999
+Length of decimal part = 6
+
+Decimal part 105.930000(processed) = 929999
+Length of decimal part = 6
+
+Decimal part 106.040000(processed) = 39999
+Length of decimal part = 5
+
+Decimal part 106.150000(processed) = 149999
+Length of decimal part = 6
+
+Decimal part 106.260000(processed) = 259999
+Length of decimal part = 6
+
+Decimal part 106.370000(processed) = 369999
+Length of decimal part = 6
+
+Decimal part 106.480000(processed) = 479999
+Length of decimal part = 6
+
+Decimal part 106.590000(processed) = 589999
+Length of decimal part = 6
+
+Decimal part 106.700000(processed) = 699999
+Length of decimal part = 6
+
+Decimal part 106.810000(processed) = 809999
+Length of decimal part = 6
+
+Decimal part 106.920000(processed) = 919999
+Length of decimal part = 6
+
+Decimal part 107.030000(processed) = 29999
+Length of decimal part = 5
+
+Decimal part 107.140000(processed) = 139999
+Length of decimal part = 6
+
+Decimal part 107.250000(processed) = 249999
+Length of decimal part = 6
+
+Decimal part 107.360000(processed) = 359999
+Length of decimal part = 6
+
+Decimal part 107.470000(processed) = 469999
+Length of decimal part = 6
+
+Decimal part 107.580000(processed) = 579999
+Length of decimal part = 6
+
+Decimal part 107.690000(processed) = 689999
+Length of decimal part = 6
+
+Decimal part 107.800000(processed) = 799999
+Length of decimal part = 6
+
+Decimal part 107.910000(processed) = 909999
+Length of decimal part = 6
+
+Decimal part 108.020000(processed) = 19999
+Length of decimal part = 5
+
+Decimal part 108.130000(processed) = 129999
+Length of decimal part = 6
+
+Decimal part 108.240000(processed) = 239999
+Length of decimal part = 6
+
+Decimal part 108.350000(processed) = 349999
+Length of decimal part = 6
+
+Decimal part 108.460000(processed) = 459999
+Length of decimal part = 6
+
+Decimal part 108.570000(processed) = 569999
+Length of decimal part = 6
+
+Decimal part 108.680000(processed) = 679999
+Length of decimal part = 6
+
+Decimal part 108.790000(processed) = 789999
+Length of decimal part = 6
+
+Decimal part 108.900000(processed) = 899999
+Length of decimal part = 6
+
+Decimal part 109.010000(processed) = 9999
+Length of decimal part = 4
+
+Decimal part 109.120000(processed) = 119999
+Length of decimal part = 6
+
+Decimal part 109.230000(processed) = 229999
+Length of decimal part = 6
+
+Decimal part 109.340000(processed) = 339999
+Length of decimal part = 6
+
+Decimal part 109.450000(processed) = 449999
+Length of decimal part = 6
+
+Decimal part 109.560000(processed) = 559999
+Length of decimal part = 6
+
+Decimal part 109.670000(processed) = 669999
+Length of decimal part = 6
+
+Decimal part 109.780000(processed) = 779999
+Length of decimal part = 6
+
+Decimal part 109.890000(processed) = 889999
+Length of decimal part = 6
+
+Decimal part 110.000000(processed) = 999999
+Length of decimal part = 6
+

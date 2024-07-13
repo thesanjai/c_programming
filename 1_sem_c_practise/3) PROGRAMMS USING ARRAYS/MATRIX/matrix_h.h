@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h> 
+#include <stdbool.h>
 
 //variables
 
@@ -14,14 +16,21 @@ static int matrix_name=0;
 
 //function prototypes
 
-void create_matrix(matrix *mat);
-matrix* add_matrix(matrix mat1, matrix mat2);
-matrix* sub_matrix(matrix mat1, matrix mat2);
-matrix* mul_matrix(matrix mat1, matrix mat2);
-matrix* trans_matrix(matrix mat);
-void print_matrix(matrix mat);
-int find_length_int(int a); //used for calulating width to use in printf statement
-void free_matrix_memory(matrix *mat);
+void create_matrix(matrix *mat); //used for matrix creation
+matrix* add_matrix(matrix mat1, matrix mat2); // used for addition of two matrices
+matrix* sub_matrix(matrix mat1, matrix mat2); // used for subtraction of two matrices
+matrix* mul_matrix(matrix mat1, matrix mat2); // used for multiplication of two matrices
+matrix* trans_matrix(matrix mat); // used for transpose of a matrix
+void print_matrix(matrix mat); // used for printing the info of the marix
+int find_length_int(int a); //used for calulating width of int part, to use in printf statement
+int find_decimal_part(double a); // used to find the decimal part of the double
+void free_matrix_memory(matrix *mat); // used to release the dynamically allocated memory
+bool is_symmetric(matrix mat); 
+bool is_skew_symmetric(matrix mat);
+bool is_identity(matrix mat);
+bool is_diagonal(matrix mat);
+bool is_upper_triangular(matrix mat);
+bool is_lower_triangular(matrix mat);
 
 
 
@@ -36,26 +45,26 @@ void create_matrix(matrix *mat){
             break;
         }else{
             printf("Invalid name\n");
-            printf("try again.....\n");
+            printf("Try again.....\n");
          }
     }
     
     while(1){
-        printf("Enter the number of rows: ");
-        if(  scanf("%d",&mat->row) !=0){
+        printf("Enter the number of rows : ");
+        if(  scanf(" %d",&mat->row) !=0){
             break;
         }else{
             printf("Invalid number of rows\n");
-            printf("try again.....\n");
+            printf("Try again.....\n");
         }
     }
     while(1){
-        printf("Enter the number of columns: ");
-        if(  scanf("%d",&mat->col) !=0){
+        printf("Enter the number of columns : ");
+        if(  scanf(" %d",&mat->col) !=0){
             break;
         }else{
             printf("Invalid number of columns\n");
-            printf("try again.....\n");
+            printf("Try again.....\n");
         }
     }
    
@@ -87,7 +96,7 @@ void create_matrix(matrix *mat){
         for(int j=0;j<mat->col;j++){
           while(1){
                 printf("%s[%d][%d]? => ",mat->name,i,j);
-                if(scanf("%lf",&mat->a[i][j]) != 0){
+                if(scanf(" %lf",&mat->a[i][j]) != 0){
                     break; //beraking while
                 }else{
                     printf("Invalid number\n");
@@ -96,7 +105,7 @@ void create_matrix(matrix *mat){
           }
         }
     }
-    printf("Matrix %s created sucessfully.....!\n\n",mat->name);
+    printf("Matrix \" %s \" is created sucessfully.....!\n\n",mat->name);
 }
 
 int find_length_int(int a){
@@ -107,27 +116,65 @@ int find_length_int(int a){
     }
     return len;
 }
+int find_decimal_part(double a) {
+    double fractional_part = a - (int)a; // getting the value after the decimal
+    int fractional_data = (int)(fractional_part * 1000000); // max length of decimal in double 6
+
+     // Removing trailing zeros
+    while (fractional_data != 0 && fractional_data % 10 == 0) {
+        fractional_data /= 10;
+    }
+
+    if(fractional_data >= 9999){
+        fractional_data /= 10000;
+        fractional_data = fractional_data +1;
+    }
+     // Removing trailing zeros
+    while (fractional_data != 0 && fractional_data % 10 == 0) {
+        fractional_data /= 10;
+    }
+
+    return fractional_data;
+}
+
 void print_matrix(matrix mat){
     printf("\n");
-    printf("The matrix %s is: \n",mat.name);
+    printf("The matrix \"%s\" is : \n",mat.name);
+    printf("Diemension of the matrix is ( %d x %d )\n",mat.row,mat.col);
 
     //code for calulating max width of the matrix element
-    int len = -9999999;
+    int len_int = -9999999;
+    int len_deci = -9999999;
+    bool is_negative = false;
     for(int i=0;i<mat.row;i++){
         for(int j=0;j<mat.col;j++){
-            int temp = find_length_int(mat.a[i][j]);
-            len = temp > len ? temp : len;
+            //calculating max length of int part
+            int temp_int = find_length_int(mat.a[i][j]); 
+            len_int = temp_int > len_int ? temp_int : len_int;
+
+            //calculating max length of decimal part                                // abs returns int value it was in stdlib.h
+            int temp_deci = find_length_int(find_decimal_part(fabs(mat.a[i][j]))); // fabs retuns double value it was in math.h
+            len_deci = temp_deci > len_deci ? temp_deci : len_deci;
+
+            //checking for negative numbers
+            if(mat.a[i][j] < 0){
+                is_negative = true;
+            }
         }
     }
 
-    int width=len + 3; // two digit width starts from 5
+    //int width_int = len_int + 3; // two digit width starts from 5
     // if two digit , width = 5 ;if three digit widht =6
-    printf("\nwidth = %d\n",width);
+    
+    if(is_negative == true){
+        len_int++; // if negative then add one extra space
+    }
+
 
     printf("\n");
     for(int i=0;i<mat.row;i++){
         for(int j=0;j<mat.col;j++){
-            printf("%0*.*f  ",width,2,mat.a[i][j]); // 2-> 2 decimal points
+            printf("%0*.*f  ",len_int,len_deci,mat.a[i][j]); // 2-> 2 decimal points
         }
         printf("\n");
     }
@@ -151,7 +198,7 @@ matrix* add_matrix(matrix mat1, matrix mat2){
     }
     //allocating values for matrix 3
     while(1){
-        printf("Enter the name of the resultant matrix(addition): ");
+        printf("Enter the name of the resultant matrix(addition) : ");
         if(scanf(" %19[^\n]s",mat3->name) !=0){
             break;
         }else{
@@ -187,7 +234,7 @@ matrix* add_matrix(matrix mat1, matrix mat2){
         }
     }
     
-    printf("\nMatrix %s and Matrix %s added sucessfully.....!\n\n",mat1.name,mat2.name);
+    printf("\nMatrix \" %s \" and Matrix \" %s \" is added sucessfully.....!\n\n",mat1.name,mat2.name);
     return mat3;
 }
 
@@ -210,12 +257,12 @@ matrix* sub_matrix(matrix mat1, matrix mat2){
 
     //allocating values for matrix 3
     while(1){
-            printf("Enter the name of the resultant matrix(subtraction): ");
+            printf("Enter the name of the resultant matrix(subtraction) : ");
             if(scanf(" %19[^\n]s",mat3->name) !=0){
                 break;
             }else{
                 printf("Invalid name\n");
-                printf("try again.....\n");
+                printf("Try again.....\n");
             }
         }
 
@@ -246,7 +293,7 @@ matrix* sub_matrix(matrix mat1, matrix mat2){
         }
     }
 
-    printf("\nMatrix %s and Matrix %s subtracted sucessfully.....!\n\n",mat1.name,mat2.name);
+    printf("\nMatrix \" %s \" and Matrix \" %s \" is subtracted sucessfully.....!\n\n",mat1.name,mat2.name);
     return mat3;
 }
 
@@ -269,12 +316,12 @@ matrix* mul_matrix(matrix mat1, matrix mat2){
 
     //allocating values for matrix 3
      while(1){
-        printf("Enter the name of the resultant matrix(multiplication): ");
+        printf("Enter the name of the resultant matrix(multiplication) : ");
         if(scanf(" %19[^\n]s",mat3->name) != 0){
             break;
         }else{
             printf("Invalid name\n");
-            printf("try again.....\n");
+            printf("Try again.....\n");
          }
     }
 
@@ -307,7 +354,7 @@ matrix* mul_matrix(matrix mat1, matrix mat2){
            }
         }
     }
-    printf("\nMatrix %s and Matrix %s multiplied sucessfully.....!\n\n",mat1.name,mat2.name);
+    printf("\nMatrix \" %s \" and Matrix \" %s \" is multiplied sucessfully.....!\n\n",mat1.name,mat2.name);
     return mat3;
   
 }
@@ -323,12 +370,12 @@ matrix* trans_matrix(matrix mat){
 
     //allocating values for matrix 3
      while(1){
-         printf("Enter the name of the resultant matrix(transpose): ");
+         printf("Enter the name of the resultant matrix(transpose) : ");
          if( scanf(" %19[^\n]s",mat3->name) != 0){
             break;
          }else{
             printf("Invalid name\n");
-            printf("try again....\n");
+            printf("Try again....\n");
          }
      }
        
@@ -359,7 +406,7 @@ matrix* trans_matrix(matrix mat){
         }
     }
     
-    printf("\nMatrix %s transposed sucessfully.....!\n\n",mat.name);
+    printf("\nMatrix \" %s \" is transposed sucessfully.....!\n\n",mat.name);
     return mat3;
 }
 
@@ -370,5 +417,79 @@ void free_matrix_memory(matrix *mat){
     }
     free(mat->a);
 
-    printf("Matix %s memory released successfully......!\n",mat->name);
+    printf("Matrix \" %s\'s \" memory is released successfully......!\n",mat->name);
+}
+
+inline bool is_symmetric(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(mat.a[i][j] != mat.a[j][i]){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_skew_symmetric(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(mat.a[i][j] != -mat.a[j][i]){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_identity(matrix mat)
+{   
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i==j && mat.a[i][j] != 1){
+                return false;
+            }else if(i!=j && mat.a[i][j] != 0){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_diagonal(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i!=j && mat.a[i][j]!= 0){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_upper_triangular(matrix mat)
+{
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i>j && mat.a[i][j]!= 0){
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+inline bool is_lower_triangular(matrix mat)
+{   
+    for(int i=0; i<mat.row; i++){
+        for(int j=0; j<mat.col; j++){
+            if(i<j && mat.a[i][j]!= 0){
+                return false;
+            }
+        }
+    }
+    return true;
 }
