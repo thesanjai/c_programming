@@ -4,6 +4,7 @@ int main(){
   printf(2 + "sanjai\n");
   printf(0 + "like\n");
   printf(3 + "sanjai\n");
+  
     return 0;
 }
 /*NOTES
