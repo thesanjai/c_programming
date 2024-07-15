@@ -12,7 +12,7 @@
 int main(){
     int x=0, k;
 
-    while( +(+x--)==0){//eventhough condition fails ,x-- statement is executed
+    while( +(+x--)==0){//even though condition fails ,x-- statement is executed
         x--;
     }
     printf("x = %d\n", x);
