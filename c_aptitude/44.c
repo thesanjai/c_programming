@@ -8,6 +8,15 @@ int main(){
             }
         }
     }
+    printf("\n\n");
+    if(printf("coding ")){
+        switch(printf("\n")){
+            case 1:
+                if(printf("is fun\n")){
+                    return 0;
+                }
+        }
+    }
     return 0;
 }
 /*NOTES
