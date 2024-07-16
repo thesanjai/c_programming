@@ -1,8 +1,8 @@
 //.convert a name into its ascii values.
 #include <stdio.h>
-
+#include <stdlib.h>
 int main(){
-    char *str;
+    char *str=(char*)malloc(sizeof(char));
     printf("Enter the string : ");
     scanf("%99[^\n]s",str);
 
