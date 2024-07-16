@@ -5,7 +5,7 @@ int main(){
     char *b;
     float *c;
     double *d;
-
+    
     printf("sizeof(int*) = %ld \n",sizeof(int*));
     printf("sizeof(char*) = %ld \n",sizeof(char*));
     printf("sizeof(float*) = %ld \n",sizeof(float*));
