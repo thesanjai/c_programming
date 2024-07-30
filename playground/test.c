@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 
 #define slength(s) ({ \
 	int n=0;\
@@ -7,7 +8,7 @@
 })
 
 int main(){
-	char* str="000";
+	char* str=getpass("Enter the string: ");
 
 	
 	printf("%d\n",slength(str));
