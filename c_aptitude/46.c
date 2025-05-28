@@ -20,7 +20,7 @@ int main(){
 /*NOTES
     
      '%'  operator is designed for int
-     if we try use it with float, it ends up with
+     if we try use it with float, it ends up with error: invalid operands to binary % (have 'float' and 'int')
 
      so, if we want modulo for int and float , we should use fmod function in math.h 
 */

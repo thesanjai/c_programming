@@ -28,3 +28,9 @@ int main(){
 
     return 0;
 }
+
+/*
+    NOTES:-
+            ++a pre increment then the entire sequence is updated all are dependent on a
+            a++ post increment then the individual sequence is updated all are independent on a
+*/

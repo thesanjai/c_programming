@@ -6,8 +6,8 @@ int reverse(int i){
         exit(0);
     }
     printf("%d ", i);
-    return reverse(i++);
-    //return reverse(++i);
+    return reverse(i++); // This line will cause infinite recursion because i++ will always return the current value of i before incrementing it.
+    // return reverse(++i);
 }
 int main(){
     reverse(1);

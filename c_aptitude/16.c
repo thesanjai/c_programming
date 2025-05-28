@@ -13,17 +13,16 @@ int main(){
 comparison == operator has higher precedence over assignment = operator
 */
 
-/*
-    TRY IT OUT
 
-    #include<stdio.h>
-    int main(){
-    int x,y=5,z=5;
+    // // TRY IT OUT
 
-    x+=y==z;
+    // // #include<stdio.h>
+    // int main(){
+    // int x=10,y=5,z=5;
 
-    printf("%d ",x);
+    // x+=y==z;
 
-    return 0;
-    }
-*/
+    // printf("%d ",x);
+
+    // return 0;
+    // }

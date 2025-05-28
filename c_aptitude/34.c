@@ -13,3 +13,9 @@ int main(){
     
     return 0;
 }
+
+/*
+    NOTES:
+            OR => if first contidion is true then it will not check the second condition
+            AND => if first condition is false then it will not check the second condition
+*/

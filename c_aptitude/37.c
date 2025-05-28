@@ -10,5 +10,5 @@ int main(){
 /*NOTES
     if we add the integer with string
     first pointer points to the first character of the string , which is 's' in this case
-    if we add +2 with that stering, it moves to that int position
+    if we add +2 with that string, it moves to that int position
 */
